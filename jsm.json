@@ -1,6 +1,6 @@
 {
 	"spider":"./pg.jar",
-	"spider":"./lib/fan.txt;md5;c309b0f793045f88f75aa088cd0cc7b5",
+
 	"sites":[
 		{
 			"key": "酷狗",
