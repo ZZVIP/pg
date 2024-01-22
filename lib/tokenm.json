@@ -2,7 +2,7 @@
 "token":"",
 "open_token":"",
 "thread_limit":32,
-"is_vip":false,
+"is_vip":true,
 "vip_thread_limit":0,
 "vod_flags":"4k|4kz|auto",
 "quark_thread_limit":32,
