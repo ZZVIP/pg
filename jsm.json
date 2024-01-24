@@ -1,5 +1,5 @@
 {
-	"spider":"./pg.jar;./lib/fan.txt",
+	"spider":"./pg.jar$$$./lib/fan.txt",
 	"sites":[
 		{
 			"key": "豆瓣",
