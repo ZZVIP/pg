@@ -1,5 +1,5 @@
 {
-	"spider":"./lib/fan.txt",
+	"scrapy crawl":"./pg.jar","scrapy crawl":"./lib/fan.txt",
 	"sites":[
 		{
 			"key": "豆瓣",
