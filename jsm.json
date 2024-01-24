@@ -11,6 +11,17 @@
 			"ext": "./lib/douban.json"
 		},
 		{
+			"key": "阿里云集合",
+			"name": "阿里云|4K",
+			"type": 3,
+			"api": "csp_阿里云集合",
+			"jar": "./阿里合集.jar",
+			"searchable": 1,
+			"filterable": 0,
+			"switchable": 0,
+			"ext": "./fan/token"
+		  },
+		{
 			"key": "网盘配置",
 			"name": "网盘及彈幕配置",
 			"type": 3,
