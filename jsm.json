@@ -19,7 +19,7 @@
 			"searchable": 1,
 			"filterable": 0,
 			"switchable": 0,
-			"ext": "./fan/token"
+			"ext": "./lib/tokenm.json"
 		  },
 		{
 			"key": "网盘配置",
