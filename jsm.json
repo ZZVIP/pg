@@ -1,6 +1,5 @@
 {
 	"spider":"./pg.jar",
-	
 	"sites":[
 		{
 			"key": "豆瓣",
