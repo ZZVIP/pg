@@ -22,8 +22,8 @@
 		{"key": "py_cntv", "name": "央视", "type": 3, "api": "./py/py_cntv.py", "searchable": 0, "quickSearch": 0, "filterable": 1},
 		{"key": "py_live", "name": "直播", "type": 3, "api": "./py/py_live.py", "searchable": 0, "quickSearch": 0, "filterable": 1},
 		
-		{"key": "py_bilibilivd", "name": "B站视频", "type": 3, "style": {"type": "rect", "ratio": 1.43}, "api": "./py/py_bilibilivd.py", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext":"./lib/tokenm.json"}, 
-		{"key": "py_bilibilimd", "name": "B站番剧", "type": 3, "api": "./py/py_bilibilimd.py", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext":"./lib/tokenm.json"},
+		{"key": "py_bilibilivd", "name": "B站视频", "type": 3, "style": {"type": "rect", "ratio": 1.43}, "api": "./py/py_bilibilivd.py", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext":"./fils/TV/.bilibili"}, 
+		{"key": "py_bilibilimd", "name": "B站番剧", "type": 3, "api": "./py/py_bilibilimd.py", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext":"./fils/TV/.bilibili"},
 
 		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
 		{"key":"PikPakShare","name":"PikPak分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz"},
