@@ -16,7 +16,7 @@
 			"key": "py_cctvdc",
 			"name": "🇨🇳央视片库┃PY",
 			"type": 3,
-			"api": "py_cctv",
+			"api": "./py/py_cntv.py",
 			"jar": "http://xiyan1213.eu.org/momo/lib/jar/myog.php",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -36,7 +36,7 @@
 		  },
 		  {
 			"key": "Ppxzy",
-			"name": "080P💘皮皮虾|弹幕",
+			"name": "1080P💘皮皮虾|弹幕",
 			"type": 3,
 			"api": "csp_Ppxzy",
 			"jar": "http://xiyan1213.eu.org/momo/lib/jar/mypg.php",
