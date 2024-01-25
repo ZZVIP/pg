@@ -13,6 +13,126 @@
 		
 		{"key": "py_cntv", "name": "央视", "type": 3, "api": "./py/py_cntv.py", "searchable": 0, "quickSearch": 0, "filterable": 1},
 		{
+			"key": "py_cctvdc",
+			"name": "🇨🇳央视片库┃PY",
+			"type": 3,
+			"api": "py_cctv",
+			"jar": "http://xiyan1213.eu.org/momo/lib/jar/myog.php",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./lib/py2.json"
+		  },
+		  {
+			"key": "天天",
+			"name": "1080P💘大鹅|弹幕",
+			"type": 3,
+			"api": "csp_TTian",
+			"jar": "http://xiyan1213.eu.org/momo/lib/jar/mypg.php",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "http://op.ysdqjs.cn$$$null$$$1"
+		  },
+		  {
+			"key": "Ppxzy",
+			"name": "080P💘皮皮虾|弹幕",
+			"type": 3,
+			"api": "csp_Ppxzy",
+			"jar": "http://xiyan1213.eu.org/momo/lib/jar/mypg.php",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./lib/tokenm.json$$$https://ppxzy.net$$$null$$$1"
+		  },
+		  {
+			"key": "校长影视",
+			"name": "1080P💘校长|弹幕",
+			"type": 3,
+			"api": "csp_XiaoZhang",
+			"jar": "http://xiyan1213.eu.org/momo/lib/jar/mypg.php",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./lib/tokenm.json$$$null$$$1"
+		  },
+		  {
+			"key": "NanGua",
+			"name": "1080P💘南瓜|弹幕",
+			"type": 3,
+			"api": "csp_NanGua",
+			"jar": "http://xiyan1213.eu.org/momo/lib/jar/mypg.php",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "null$$$1"
+		  },
+		  {
+			"key": "哔嘀",
+			"name": "1080P💘哔嘀",
+			"type": 3,
+			"api": "csp_Bdys",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "http://xiyan1213.eu.org/momo/lib/jar/myog.php"
+		  },
+		  {
+			"key": "萌米",
+			"name": "1080P🐟萌萌",
+			"type": 3,
+			"api": "csp_AppMao",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
+		  },
+		  {
+			"key": "虎虎",
+			"name": "1080P🐟虎虎",
+			"type": 3,
+			"api": "csp_Panda",
+			"ext": "./lib/huhu.json",
+			"jar": "http://xiyan1213.eu.org/momo/lib/jar/panda.php;md5;9cc29f6286b2fe7910628852929c4bdb"
+		  },
+		  {
+			"key": "短剧",
+			"name": "💚短剧搜",
+			"type": 3,
+			"api": "csp_Duanju",
+			"jar": "http://xiyan1213.eu.org/momo/lib/jar/mypg.php",
+			"searchable": 0,
+			"changeable": 0
+		  },
+		  {
+			"key": "虎牙直播js",
+			"name": "🐟虎牙直播",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"ext": "./lib/虎牙直播.js",
+			"style": {
+			  "type": "rect",
+			  "ratio": 1.755
+			},
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0
+		  },
+		  {
+			"key": "csp_XYQBiu_斗鱼",
+			"name": "🐟斗鱼直播",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"ext": "./lib/斗鱼直播.js",
+			"style": {
+			  "type": "rect",
+			  "ratio": 1.755
+			},
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0
+		  },
+		{
 			"key":"bilixiqu",
 			"name":"戏曲",
 			"type":3,
