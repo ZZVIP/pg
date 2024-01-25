@@ -1,5 +1,7 @@
 [
 {"name":"自建","url":"https://raw.fgit.cf/ZZVIP/IPTV/main/Myiptv.txt"},
+{"name":"8M","url":" https://raw.fgit.cf/ZZVIP/IPTV/main/8M%E4%BB%A3%E7%90%86%E5%9B%BD%E5%86%85.txt"},
+
 {"name":"范明明OfficalSite","url":"https://live.fanmingming.com/tv/m3u/global.m3u"},
 {"name":"范明明GitHub","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u"},
 {"name":"范明明IPV6","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u"}
