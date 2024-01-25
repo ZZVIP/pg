@@ -13,15 +13,13 @@
 		
 		{"key": "py_cntv", "name": "央视", "type": 3, "api": "./py/py_cntv.py", "searchable": 0, "quickSearch": 0, "filterable": 1},
 		{
-			"key": "py_cctvdc",
+			"key": "py_cntvdc",
 			"name": "🇨🇳央视片库┃PY",
 			"type": 3,
-			"api": "./py/py_cntv.py",
-			"jar": "http://xiyan1213.eu.org/momo/lib/jar/myog.php",
+			"api": "./lib/py2.json",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./lib/py2.json"
 		  },
 		  {
 			"key": "天天",
