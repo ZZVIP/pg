@@ -1,7 +1,7 @@
 {
   "drives": [
     {
-      "name": "alist.jar",
+      "name": "自建",
       "search": true,
       "searchable": true,
       "server": "http://192.168.4.144:5244/dav"
