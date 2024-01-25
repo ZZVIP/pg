@@ -445,7 +445,7 @@
 			"changeable": 0
 		},
 		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
-		//{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","searchable":1,"filterable":1,"changeable":1,"ext":"./js/alist.json"},
+		{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","searchable":1,"filterable":1,"changeable":1,"ext":"./js/alist.json"},
 		{"key": "py_live", "name": "直播", "type": 3, "api": "./py/py_live.py", "searchable": 0, "quickSearch": 0, "filterable": 1},
 		{
 			"key": "短剧",
