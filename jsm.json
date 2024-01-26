@@ -19,7 +19,7 @@
 			"filterable":0,
 			"switchable":0,
 			"ext":"http://127.0.0.1:9978/file/tvbox/pg/token/alitoken.txt",
-			"jar":"./阿里集合.jar"
+			"jar":"./jar/阿里集合.jar"
 		},
 		{"key": "py_cntv", "name": "央视", "type": 3, "api": "./py/py_cntv.py", "searchable": 0, "quickSearch": 0, "filterable": 1},
 		
@@ -82,7 +82,7 @@
 			"name": "1080P🐟萌萌",
 			"type": 3,
 			"api": "csp_AppMao",
-			"jar":"./py/moyuer.php",
+			"jar":"./jar/moyuer.php",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
@@ -207,7 +207,17 @@
 			"ext": "null$$$1"
 		},
 
-		{"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_fWoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
+		{
+			"key": "玩偶哥哥",
+			"name": "👽玩偶哥哥┃4K弹幕",
+			"type": 3,
+			"api": "csp_WoGG",
+			"jar":"./jar/fty.jar"
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+		  },
 		{"key":"Wogg","name":"玩偶哥哥|阿里","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json+4k|auto|fhd$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json"},
 		{"key":"影视车","name":"影视车|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json"},
 		{"key":"Libvio","name":"LIBVIO|网盘","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.libvio.pro$$$null"},
