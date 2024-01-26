@@ -10,7 +10,7 @@
 			"changeable": 1,
 			"ext": "./lib/douban.json"
 		},
-		{"key":"阿里云集合","name":"阿里云集合|4K","type":3,"api":"csp_阿里云集合","searchable":1,"filterable":0,"switchable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","jar":"./阿里集合20240126.jar"}
+		{"key":"阿里云集合","name":"阿里云集合|4K","type":3,"api":"csp_阿里云集合","searchable":1,"filterable":0,"switchable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","jar":"./阿里集合20240126.jar"},
 		{"key": "py_cntv", "name": "央视", "type": 3, "api": "./py/py_cntv.py", "searchable": 0, "quickSearch": 0, "filterable": 1},
 		{
 			"key": "py_cctvdc",
