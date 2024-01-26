@@ -28,8 +28,7 @@
 			"name": "1080P💘大鹅|弹幕",
 			"type": 3,
 			"api": "csp_TTian",
-			"jar":"./jar/moyuer.php"
-			//"jar": "http://xiyan1213.eu.org/momo/lib/jar/mypg.php",
+			"jar": "http://xiyan1213.eu.org/momo/lib/jar/mypg.php",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
@@ -40,8 +39,7 @@
 			"name": "1080P💘皮皮虾|弹幕",
 			"type": 3,
 			"api": "csp_Ppxzy",
-			"jar":"./jar/moyuer.php"
-			//"jar": "http://xiyan1213.eu.org/momo/lib/jar/mypg.php",
+			"jar": "http://xiyan1213.eu.org/momo/lib/jar/mypg.php",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -52,8 +50,7 @@
 			"name": "1080P💘校长|弹幕",
 			"type": 3,
 			"api": "csp_XiaoZhang",
-			"jar":"./jar/moyuer.php"
-			//"jar": "http://xiyan1213.eu.org/momo/lib/jar/mypg.php",
+			"jar": "http://xiyan1213.eu.org/momo/lib/jar/mypg.php",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -64,8 +61,7 @@
 			"name": "1080P💘南瓜|弹幕",
 			"type": 3,
 			"api": "csp_NanGua",
-			"jar":"./jar/moyuer.php"
-			//"jar": "http://xiyan1213.eu.org/momo/lib/jar/mypg.php",
+			"jar": "http://xiyan1213.eu.org/momo/lib/jar/mypg.php",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
@@ -79,8 +75,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-		    "jar":"./jar/moyuer.php"
-			//"jar": "http://xiyan1213.eu.org/momo/lib/jar/myog.php"
+			"jar": "http://xiyan1213.eu.org/momo/lib/jar/myog.php"
 		  },
 		  {
 			"key": "萌米",
