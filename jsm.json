@@ -212,7 +212,7 @@
 			"name": "👽玩偶哥哥┃4K弹幕",
 			"type": 3,
 			"api": "csp_WoGG",
-			"jar":"./jar/fty.jar"
+			"jar":"./jar/fty.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
