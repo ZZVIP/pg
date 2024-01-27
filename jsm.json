@@ -163,6 +163,7 @@
 			"name": "TVB云播┃App",
 			"type": 3,
 			"api": "csp_Skapp",
+			"searchable": 0,
 			"playerType": 2,
 			"ext": "CWL+IfA5s3TICYJ8lk+lYcjPA/WXNYE4LRTfUSa9I+X9ibZY05syLe/O7u2miaiYRiSaKE51xQOxm38YeL27jRUyF6+GJKVQArnP7QbC+qw2okju8YACfPzD3rpQo8uckl2rQh925A6lp4VD0ELHJrUvDGTlojwKtynX78d5E88HbdSsCV5pIueNPH5+z42FBt21KGN5lnE7/qqEGpSyFzbARD4aWuhSHsun7GQU9yaXZn0F4l4o2YYaEvRtsz4z9Mo8+7aj2nZsCkFWLNpgv6kzFNohSTWVDkajg5aj6s7d8CPNIvvC+gr0zm79fuuvNQF6NfaiBOrvTwamMJa3F3w==$$$null$$$1"
 		},
@@ -232,7 +233,7 @@
 		{"key":"drpy_js_美剧迷","name":"美剧迷[js]|磁","type":3,"api":"./lib/drpy2.min.js","ext":"./js/meijumi.js", "quickSearch":1, "changeable":1, "timeout":60},
 		{"key":"drpy_js_愛盤搜","name":"爱盘搜[js]|夸","type":3,"api":"./lib/drpy2.min.js","ext":"./js/aipanso.js", "quickSearch":1, "changeable":1, "timeout":30},
 		{"key":"drpy_js_人人影视","name":"人人影视[js]|搜","type":3,"api":"./lib/drpy2.min.js","ext":"./js/yyets.js", "quickSearch":1, "changeable":1, "timeout":30},
-		{"key":"drpy_js_MP4US","name":"MP4电影[js]|磁","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mp4us.js", "quickSearch":1, "changeable":1, "timeout":60},
+		{"key":"drpy_js_MP4US","name":"MP4电影[js]|磁","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mp4us.js", "quickSearch":0, "changeable":1, "timeout":60},
 		{"key":"4KHDR","name":"4KHDR|网盘","type":3,"api":"csp_FourKHDR","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/4khdr.txt$$$1"},
 		{"key":"UP云搜","name":"阿里|UP云搜","type":3,"api":"csp_UpYun","timeout":30, "ext":"./lib/tokenm.json"}, 
 		{
@@ -245,7 +246,7 @@
 		},
 		{"key":"drpy_js_酷吧","name":"酷吧[js]|磁","type":3,"api":"./lib/drpy2.min.js","ext":"./js/kuba.js", "quickSearch":1, "changeable":1, "timeout":60},
 		{"key":"BLSGod","name":"BLSGod|磁","type":3,"api":"csp_BLSGod","changeable":1, "timeout":60},
-		{"key":"Xunlei8","name":"Xunlei8|磁","type":3,"api":"csp_Xunlei8","changeable":1, "timeout":60},
+		{"key":"Xunlei8","name":"Xunlei8|磁","type":3,"api":"csp_Xunlei8","searchable": 0,"quickSearch": 0,"changeable":1, "timeout":60},
 		{"key":"SeedHub","name":"SeedHub|磁","type":3,"api":"csp_SeedHub","changeable":1, "timeout":60},
 		{"key":"AList","name":"网盘|Alist[jar]","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":1,"ext":"./js/alistjar.json"},
 		{
@@ -253,18 +254,18 @@
 			"name": "快看",
 			"type": 3,
 			"api": "csp_Kuaikan",
-			"searchable": 1,
-			"quickSearch": 1,
+			"searchable": 0,
+			"quickSearch": 0,
 			"changeable": 0,
 			"filterable": 1
 		},
-		{ "key":"csp_YingShi","name":"影视|海外","type":3,"api":"csp_YingShi","ext":""},
+		{ "key":"csp_YingShi","name":"影视|海外","searchable": 0,"type":3,"api":"csp_YingShi","ext":""},
 		{ 
 			"key": "泥巴", 
 			"name": "泥巴 | 海外", 
 			"type": 3, 
 			"api": "csp_NiNi", 
-			"searchable": 1, 
+			"searchable": 0, 
 			"filterable": 1, 
 			"changeable": 0, 
 			"ext":"0$$$" 
@@ -274,7 +275,7 @@
 			"name": "星星 | 海外",
 			"type": 3,
 			"api": "csp_Star",
-			"searchable": 1,
+			"searchable": 0,
 			"changeable": 0,
 			"ext":""
 		},
@@ -283,7 +284,7 @@
 			"name": "獨播 | 海外",
 			"type": 3,
 			"api": "csp_XPathMacFilter",
-			"searchable": 1,
+			"searchable": 0,
 			"changeable": 0,
 			"ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json$$$"
 		},
@@ -292,7 +293,7 @@
 			"name": "海外看",
 			"type": 1,
 			"api": "https://haiwaikan.com/api.php/provide/vod",
-			"searchable": 1,
+			"searchable": 0,
 			"changeable": 1,
 			"categories": [
 				"日本动漫",
