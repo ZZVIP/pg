@@ -1,10 +1,10 @@
 {
   "drives": [
     {
-      "name": "自建",
+      "name": "alist.jar",
       "search": true,
       "searchable": true,
-      "server": "http://192.168.4.144:5244"
+      "server": "http://192.168.101.13:5244"
     }
   ]
 }
