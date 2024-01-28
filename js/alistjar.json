@@ -1,10 +1,16 @@
 {
   "drives": [
     {
-      "name": "alist.jar",
+      "name": "我的alist",
       "search": true,
       "searchable": true,
-      "server": "http://192.168.101.13:5244"
+      "server": "http://192.168.4.144:5244"
+    },
+    {
+      "name": "小雅alist",
+      "search": true,
+      "searchable": true,
+      "server": "http://192.168.4.144:5678"
     }
   ]
 }
