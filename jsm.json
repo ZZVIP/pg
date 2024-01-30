@@ -20,6 +20,16 @@
             "filterable": 0,
             "api": "./js/lf_search3_min.js"
         },
+{
+            "key": "lf_js_ikanbot",
+            "name": "点播 | lf_ikanbot",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./lf_ikanbot4_min.js"
+        }
 		{
 			"key": "网盘配置",
 			"name": "网盘及彈幕配置",
