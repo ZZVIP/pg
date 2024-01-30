@@ -29,7 +29,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "./js/lf_ikanbot4_min.js"
-        }
+        },
 		{
 			"key": "网盘配置",
 			"name": "网盘及彈幕配置",
