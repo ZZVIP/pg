@@ -10,6 +10,16 @@
 			"changeable": 1,
 			"ext": "./lib/douban.json"
 		},
+  {
+            "key": "lf_js_search",
+            "name": "🧠路飞|搜索",
+            "type": 3,
+            "searchable": 0,
+            "changeable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "api": "./js/lf_search3_min.js"
+        },
 		{
 			"key": "网盘配置",
 			"name": "网盘及彈幕配置",
