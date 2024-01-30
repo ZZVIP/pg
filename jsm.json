@@ -20,7 +20,7 @@
             "filterable": 0,
             "api": "./js/lf_search3_min.js"
         },
-{"key":"喵物","name":"喵物｜动漫","type":3,"api":"./js/drpy.min.js","searchable":1,"changeable":1,"ext":"./js/喵物次元.js"},
+{"key":"喵物","name":"喵物｜动漫","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./js/喵物次元.js"},
 {
             "key": "lf_js_ikanbot",
             "name": "点播 | lf_ikanbot",
