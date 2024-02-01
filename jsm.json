@@ -36,6 +36,7 @@
             "name": "🌟 Free影视 ",
             "type": 3,
             "api": "csp_XBPQ",
+            "jar":"./jar/yydf.txt",
             "playerType": 1,
             "ext": "./js/Free影视.json"
         },
