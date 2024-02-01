@@ -10,7 +10,18 @@
       "name": "九仙阁",
       "search": true,
       "searchable": true,
-      "server": "https://drive.9t.ee/"
+      "server": "https://drive.9t.ee/",
+      "params": [
+                {
+                  "path": "/OneDrive",
+                  "pass": "dooglu"
+                },
+                {
+                  "path": "/115Cloud",
+                  "pass": "dooglu"
+                }
+              ]
+    
     },
     {
       "name": "小雅alist",
