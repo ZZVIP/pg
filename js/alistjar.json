@@ -6,11 +6,12 @@
       "searchable": true,
       "server": "http://192.168.4.144:5244"
     },
-     {
+    {
       "name": "九仙阁",
       "search": true,
       "searchable": true,
-      "server": "https://drive.9t.ee/"
+      "server": "https://drive.9t.ee/",
+      "password":"dooglu"
     },
     {
       "name": "小雅alist",
