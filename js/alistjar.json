@@ -4,7 +4,12 @@
       "name": "我的alist",
       "search": true,
       "searchable": true,
-      "server": "http://192.168.4.144:5244"
+      "server": "http://192.168.4.144:5244",
+      "params":[
+        {"user":"admin",
+        "pass":"zhangzhong1992"
+        }
+      ]
     },
     {
       "name": "九仙阁",
@@ -21,7 +26,6 @@
                   "pass": "dooglu"
                 }
               ]
-    
     },
     {
       "name": "小雅alist",
