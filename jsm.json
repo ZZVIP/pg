@@ -21,16 +21,7 @@
             "api": "./js/lf_search3_min.js"
         },
 {"key":"喵物","name":"喵物｜动漫","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./js/喵物次元.js"},
-{
-            "key": "lf_js_ikanbot",
-            "name": "点播 | lf_ikanbot",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "./js/ikanbot_open.js"
-        },
+
 {
             "key": "freeok",
             "name": "🌟 Free影视 ",
