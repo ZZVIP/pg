@@ -10,8 +10,7 @@
       "name": "九仙阁",
       "search": true,
       "searchable": true,
-      "server": "https://drive.9t.ee/",
-      "passwd":"dooglu"
+      "server": "https://drive.9t.ee/"
     },
     {
       "name": "小雅alist",
