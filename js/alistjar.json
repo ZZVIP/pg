@@ -5,11 +5,10 @@
       "search": true,
       "searchable": true,
       "server": "http://192.168.4.144:5244",
-      "params":[
-        {"name":"admin",
-        "pass":"zhangzhong1992"
-        }
-      ]
+      "login": {
+        "username": "admin",
+        "password": "zhangzhong1992"
+      }
     },
     {
       "name": "九仙阁",
