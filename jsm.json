@@ -654,6 +654,75 @@
 			"changeable": 0
 		},
 		{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"./lib/tokenm.json"},
+        {
+            "key": "sc1080",
+            "name": "🥗 圣城 ",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/SC1080.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+{
+            "key": "孜然",
+            "name": "🐕孜然影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "站名": "孜然影视",
+                "练手": "yydf",
+                "类型": "class=\"tag\">&&</div",
+                "导演": "class=\"text\">导演：</span>&&</p",
+                "演员": "<span class=\"text\">主演：</span>&&</p",
+                "播放类型": "class=\"icon icon-video\"></i>立即播放",
+                "更新": "<span class=\"text\">更新：</span>&&</p",
+                "简介": "【业余打发】公众号提醒：资源免费，广告勿信！+class=\"text hidden-xs\">简介：</span>&&</p",
+                "搜索Url": "/index.php/vod/search.html",
+                "主页url": "https://www.zrys1.top/",
+                "数组": "<li class=\"col8\">&&</li",
+                "链接": "href=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "<p class=\"text\">&&</p",
+                "线路数组": "<div class=\"panel-hd\">&&</div>",
+                "线路标题": "<h3>&&</h3>[替换:在线播放>>♻️业余在线线路]",
+                "播放数组": "<ul class=\"shoutu-playlist sort-list playlist\">&&</ul>",
+                "选集名称": ">&&<",
+                "分类url": "https://www.zrys1.top/index.php/vod/show/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#电视剧$2#港台剧$14#综艺$3#动漫$4#纪录片$22"
+            }
+        },
+{
+            "key": "耐看",
+            "name": "👁耐看┃自建",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类数组": "swiper-wrapper\"*&&</ul>",
+                "线路数组": "data-dropdown-value=&&</div>",
+                "线路标题": "<span>&&</small>[替换:新自建.5>>耐看Ⓐ#新自建>>耐看Ⓑ#自建一>>耐看①#自建二>>耐看②#自建三>>耐看③#自建四>>耐看④#自建五>>耐看⑤#自建三.5>>耐看⓺#腾讯视频>>腾讯#优酷视频>>优酷#奇艺视频>>奇艺#芒果视频>>芒果#暴风资源>>暴风#快看资源>>快看#量子资源>>量子#非凡资源>>非凡#</span><small>>>共]+集",
+                "分类url": "https://www.nkvod.com/show/{cateId}--------{catePg}---{year}.html"
+            }
+        },
+        {
+            "key": "看他",
+            "name": "🌹看他影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://kanta.vip/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+                "分类": "电影$1#剧集$2#动漫$4#综艺$3"
+            }
+        },
   {
       "key": "光速资源",
       "name": "🎀光速┃采集",
