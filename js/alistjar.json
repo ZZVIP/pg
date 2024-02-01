@@ -6,7 +6,7 @@
       "searchable": true,
       "server": "http://192.168.4.144:5244",
       "params":[
-        {"user":"admin",
+        {"name":"admin",
         "pass":"zhangzhong1992"
         }
       ]
