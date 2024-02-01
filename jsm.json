@@ -670,6 +670,7 @@
             "name": "🐕孜然影视",
             "type": 3,
             "api": "csp_XBPQ",
+            "jar":"./jar/yydf.txt",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -703,6 +704,7 @@
             "name": "👁耐看┃自建",
             "type": 3,
             "api": "csp_XBPQ",
+            "jar":"./jar/yydf.txt",
             "ext": {
                 "分类数组": "swiper-wrapper\"*&&</ul>",
                 "线路数组": "data-dropdown-value=&&</div>",
