@@ -32,21 +32,6 @@
       "search": true,
       "searchable": true,
       "server": "http://192.168.4.144:5678"
-    },
-    {
-      "name": "罗汉果",
-      "server": "https://lala-ofbip.run.goorm.site",
-      "params": [
-          {
-              "path": "/OneDrive",
-              "pass": "dooglu"
-          },
-          {
-              "path": "/115Cloud",
-              "pass": "dooglu"
-          }
-      ]
-  }
-
+    }
   ]
 }
