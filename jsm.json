@@ -31,6 +31,14 @@
             "filterable": 1,
             "api": "./js/lf_ikanbot4_min.js"
         },
+{
+            "key": "freeok",
+            "name": "🌟 Free影视 ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": 1,
+            "ext": "./js/Free影视.json"
+        },
 		{
 			"key": "网盘配置",
 			"name": "网盘及彈幕配置",
