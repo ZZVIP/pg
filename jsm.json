@@ -29,7 +29,7 @@
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "./js/lf_ikanbot_open.js"
+            "api": "./js/ikanbot_open.js"
         },
 {
             "key": "freeok",
