@@ -292,7 +292,7 @@
 			"ext":"0$$$" 
 		},
 		{
-			"key": "star_open",
+			"key": "星星",
 			"name": "星星 | 海外",
 			"type": 3,
 			"api": "csp_Star",
