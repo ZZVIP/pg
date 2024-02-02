@@ -534,7 +534,7 @@
 		  },
 		  {
 			"key": "短剧",
-			"name": "💚短剧搜",
+			"name":"短剧搜",
 			"type": 3,
 			"api": "csp_Duanju",
 			"jar": "http://xiyan1213.eu.org/momo/lib/jar/mypg.php",
