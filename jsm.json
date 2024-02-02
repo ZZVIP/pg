@@ -686,9 +686,18 @@
 		}],
 		"lives":[
 			{
-				"name": "全",
+				"name": "天微v4",
 				"type": 0,
 				"url": "./lives/tvlive.txt",
+				"playerType": 1,
+				"ua": "okhttp/3.15",
+				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "天微v6",
+				"type": 0,
+				"url": "./lives/IPV6.txt",
 				"playerType": 1,
 				"ua": "okhttp/3.15",
 				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
