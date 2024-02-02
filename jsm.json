@@ -250,7 +250,6 @@
 		{"key":"Xunlei8","name":"Xunlei8|磁","type":3,"api":"csp_Xunlei8","searchable": 0,"quickSearch": 0,"changeable":1, "timeout":60},
 		{"key":"SeedHub","name":"SeedHub|磁","type":3,"api":"csp_SeedHub","changeable":1, "timeout":60},
 		{"key":"AList","name":"网盘|Alist[jar]","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":1,"ext":"./js/alistjar.json"},
-		{"key":"WebDAV","name":"网盘|WebDAV","type":3,"api":"csp_WebDAV","searchable":1,"filterable":1,"changeable":1,"ext":"./js/WebDAV.json"},
 		{
 			"key": "快看",
 			"name": "快看",
