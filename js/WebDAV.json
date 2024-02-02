@@ -1,0 +1,37 @@
+{
+    "drives": [
+      {
+        "name": "我的alist",
+        "search": true,
+        "searchable": true,
+        "server": "http://192.168.4.144:5244",
+        "login": {
+          "username": "admin",
+          "password": "zhangzhong1992"
+        }
+      },
+      {
+        "name": "九仙阁",
+        "search": true,
+        "searchable": true,
+        "server": "https://drive.9t.ee/",
+        "params": [
+                  {
+                    "path": "/OneDrive",
+                    "pass": "密码dooglu"
+                  },
+                  {
+                    "path": "/115Cloud",
+                    "pass": "密码dooglu"
+                  }
+                ]
+      },
+      {
+        "name": "小雅alist",
+        "search": true,
+        "searchable": true,
+        "server": "http://192.168.4.144:5678"
+      }
+    ]
+  }
+  
