@@ -1,11 +1,5 @@
 {
     "drives": [
-        {
-            "name": "七米藍",
-            "server": "https://al.chirmyram.com/dav",
-            "user": "alist",
-            "pass": "alist"
-        },
       {
         "name": "我的alist",
         "search": true,
@@ -37,7 +31,13 @@
         "search": true,
         "searchable": true,
         "server": "http://192.168.4.144:5678"
-      }
+      },
+      {
+        "name": "七米藍",
+        "server": "https://al.chirmyram.com/dav",
+        "user": "alist",
+        "pass": "alist"
+    }
     ]
   }
   
