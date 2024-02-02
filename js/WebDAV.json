@@ -1,5 +1,11 @@
 {
     "drives": [
+        {
+            "name": "七米藍",
+            "server": "https://al.chirmyram.com/dav",
+            "user": "alist",
+            "pass": "alist"
+        },
       {
         "name": "我的alist",
         "search": true,
