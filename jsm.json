@@ -252,12 +252,21 @@
 		{"key":"AList","name":"网盘|Alist[jar]","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":1,"ext":"./js/alistjar.json"},
 		{"key":"WebDAV","name":"WebDAV","type":3,"api":"csp_WebDAV","searchable":1,"filterable":1,"changeable":1,"ext":
 		{ "drives":
-			{
-			  "name": "七米藍",
-			  "server": "https://al.chirmyram.com/dav",
-			  "user": "alist",
-			  "pass": "alist"
-			}
+			[
+				{
+			  	 "name": "七米藍",
+			 	 "server": "https://al.chirmyram.com/dav",
+			 	 "user": "alist",
+			 	 "pass": "alist"
+				},
+				{
+					"name": "小雅alist",
+					"search": true,
+					"searchable": true,
+					"server": "http://192.168.4.144:5678"
+				}
+
+			]
 		}
 	},
 		{
