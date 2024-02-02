@@ -10,6 +10,12 @@
         "password": "zhangzhong1992"
       }
     },
+  {
+      "name": "七米藍",
+      "server": "https://al.chirmyram.com/dav",
+      "user": "alist",
+      "pass": "alist"
+    },
     {
       "name": "九仙阁",
       "search": true,
