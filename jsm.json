@@ -132,15 +132,6 @@
 			"ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
 		},
 		{
-			"key": "河马",
-			"name": "河马┃App",
-			"type": 3,
-			"api": "csp_Hmys",
-			"searchable": 1,
-			"playerType": 1,
-			"ext": "https://m.jmzp.net.cn$$$null$$$1"
-		},
-		{
 			"key": "天天",
 			"name": "天天┃App",
 			"type": 3,
