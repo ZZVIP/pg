@@ -12,7 +12,7 @@
     },
   {
       "name": "七米藍",
-      "server": "https://al.chirmyram.com",
+      "server": "https://al.chirmyram.com/",
       "login":{
       "username": "alist",
       "password": "alist"
