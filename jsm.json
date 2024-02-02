@@ -470,7 +470,7 @@
 		{"key": "py_cntv", "name": "央视", "type": 3, "api": "./py/py_cntv.py", "searchable": 0, "quickSearch": 0, "filterable": 1},
 		
 		  {
-			"key": "天天",
+			"key": "天天弹幕",
 			"name": "1080P💘大鹅|弹幕",
 			"type": 3,
 			"api": "csp_TTian",
@@ -481,7 +481,7 @@
 			"ext": "http://op.ysdqjs.cn$$$null$$$1"
 		  },
 		  {
-			"key": "Ppxzy",
+			"key": "Ppxzy弹幕",
 			"name": "1080P💘皮皮虾|弹幕",
 			"type": 3,
 			"api": "csp_Ppxzy",
