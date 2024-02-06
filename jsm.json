@@ -481,16 +481,17 @@
 			"jar":"./jar/阿里集合.jar"
 		},
 		{
-			"key":"阿里云集合0204",
-			"name":"阿里云集合|0204",
+			"key":"阿里云集合外置",
+			"name":"🦋阿里云集合",
 			"type":3,
 			"api":"csp_阿里云集合",
 			"searchable":1,
 			"filterable":0,
 			"switchable":0,
-			"ext":{"token":"http://127.0.0.1:9978/file/tvbox/pg/token/alitoken.txt",
-					"share":"/js/阿里集合.json"
-					},
+			"changeable":0,
+			"timeout":60,
+			"ext":"http://127.0.0.1:9978/file/tvbox/pg/token/alitoken.txt;./js/阿里集合.json",
+					
 			"jar":"./jar/真心真语0204+列表+搜索.jar"
 		},
 		{"key": "py_cntv", "name": "央视", "type": 3, "api": "./py/py_cntv.py", "searchable": 0, "quickSearch": 0, "filterable": 1},
