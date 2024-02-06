@@ -494,7 +494,7 @@
 			"switchable":0,
 			"changeable":0,
 			"timeout":60,
-			"ext":"http://127.0.0.1:9978/file/tvbox/pg/token/alitoken.txt;./js/阿里集合.json",
+			"ext":"http://127.0.0.1:9978/file/tvbox/pg/token/alitoken.txt$$$./js/阿里集合.json",
 					
 			"jar":"./jar/真心真语.jar"
 		},
