@@ -471,7 +471,7 @@
 		},
 		{
 			"key":"阿里云集合",
-			"name":"阿里云集合|4K",
+			"name":"阿里云集合|0131",
 			"type":3,
 			"api":"csp_阿里云集合",
 			"searchable":1,
@@ -479,6 +479,23 @@
 			"switchable":0,
 			"ext":"http://127.0.0.1:9978/file/tvbox/pg/token/alitoken.txt",
 			"jar":"./jar/阿里集合.jar"
+		},
+		{
+			"key":"阿里云集合",
+			"name":"阿里云集合|0204",
+			"type":3,
+			"api":"csp_阿里云集合",
+			"searchable":1,
+			"filterable":0,
+			"switchable":0,
+			"ext":{"token":"http://127.0.0.1:9978/file/tvbox/pg/token/alitoken.txt",
+					"share":"/js/阿里集合.json"
+					},
+			"style": {
+						"type": "list"
+					  },
+			"timeout": 10,
+			"jar":"./jar/阿里集合04204.jar"
 		},
 		{"key": "py_cntv", "name": "央视", "type": 3, "api": "./py/py_cntv.py", "searchable": 0, "quickSearch": 0, "filterable": 1},
 		  {
