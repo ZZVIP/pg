@@ -445,7 +445,19 @@
 			"searchable": 1,
 			"changeable": 1
 		},
-		
+		{
+            "key": "py_ali",
+            "name": "⛅️阿里合集·Py",
+            "type": 3,
+            "api": "./py/py_ali.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/tvbox/alitoken.txt",
+                "thread": "32"
+            }
+        },
 		{
 			"key":"磁力合集",
 			"name":"磁力合集",
