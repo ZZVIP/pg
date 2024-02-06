@@ -472,7 +472,7 @@
 			"filterable":0,
 			"switchable":0,
 			"ext":"http://127.0.0.1:9978/file/tvbox/pg/token/alitoken.txt",
-			"jar":"./jar/真心真语.jar"
+			"jar":"./jar/阿里集合.jar"
 		},
 		{
 			"key":"磁力合集",
@@ -496,7 +496,7 @@
 			"switchable":0,
 			"changeable":0,
 			"timeout":60,
-			"ext":"./js/阿里集合.json",
+			"ext":"./js/阿里集合.json;http://127.0.0.1:9978/file/tvbox/pg/token/alitoken.txt",
 					
 			"jar":"./jar/真心真语.jar"
 		},
