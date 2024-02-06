@@ -470,6 +470,17 @@
             "playerType": "2"
         },
 		{
+			"key": "csp_速映",
+			"name": "🦜速映影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./js/速映影视.json",
+			"jar": "./jar/XBPQ.jar"
+		  },
+		{
             "key": "py_ali",
             "name": "⛅️阿里合集·Py",
             "type": 3,
