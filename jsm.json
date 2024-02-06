@@ -451,6 +451,25 @@
 		},
 		{"key": "虎虎","name": "虎虎影视","type": 3,"api": "csp_XBPQ","jar":"./jar/spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e","searchable":1,"quickSearch":1,"filterable":1,"ext": "./lib/虎虎.json"},
 		{
+			"key": "meowtv_phys",
+			"name": "🐯胖虎┃影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./js/胖虎影视.json",
+			"jar": "./jar/XBPQ.jar"
+		  },
+		  {
+            "key": "drpy_js_六月听书",
+            "name": "🎧📚️六月听书",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/六月听书.js",
+            "playerType": "2"
+        },
+		{
             "key": "py_ali",
             "name": "⛅️阿里合集·Py",
             "type": 3,
