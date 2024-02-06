@@ -491,10 +491,6 @@
 			"ext":{"token":"http://127.0.0.1:9978/file/tvbox/pg/token/alitoken.txt",
 					"share":"/js/阿里集合.json"
 					},
-			"style": {
-						"type": "list"
-					  },
-			"timeout": 10,
 			"jar":"./jar/阿里集合04204.jar"
 		},
 		{"key": "py_cntv", "name": "央视", "type": 3, "api": "./py/py_cntv.py", "searchable": 0, "quickSearch": 0, "filterable": 1},
