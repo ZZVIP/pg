@@ -449,6 +449,7 @@
 			"searchable": 1,
 			"changeable": 1
 		},
+		{"key": "虎虎","name": "虎虎影视","type": 3,"api": "csp_XBPQ","jar":"./jar/spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e","searchable":1,"quickSearch":1,"filterable":1,"ext": "./lib/虎虎.json"},
 		{
             "key": "py_ali",
             "name": "⛅️阿里合集·Py",
@@ -462,6 +463,17 @@
                 "thread": "32"
             }
         },
+		{
+			"key":"阿里云集合",
+			"name":"阿里云集合|0131",
+			"type":3,
+			"api":"csp_阿里云集合",
+			"searchable":1,
+			"filterable":0,
+			"switchable":0,
+			"ext":"http://127.0.0.1:9978/file/tvbox/pg/token/alitoken.txt",
+			"jar":"./jar/真心真语.jar"
+		},
 		{
 			"key":"磁力合集",
 			"name":"磁力合集",
