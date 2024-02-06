@@ -498,8 +498,17 @@
 					
 			"jar":"./jar/真心真语.jar"
 		},
-		{"key":"追忆","name":"追忆｜影视","type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/追忆.js"},
-		{"key":"喜马拉雅","name":"喜马拉雅","type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/喜马拉雅.js"},
+
+		{"key":"追忆",
+		"name":"追忆｜影视",
+		"type":3,
+		"api":"./js/drpy2.min.js",
+		"searchable":1,
+		"quickSearch":1,
+		"filterable":1,
+		"ext":"./js/追忆.js"},
+
+		{"key":"喜马拉雅","name":"喜马拉雅","type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/喜马拉雅.js;$$$./lib/喜马拉雅.txt"},
 		{"key":"蜻蜓","name":"蜻蜓","type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/蜻蜓FM.js"},
 		{"key": "py_cntv", "name": "央视", "type": 3, "api": "./py/py_cntv.py", "searchable": 0, "quickSearch": 0, "filterable": 1},
 		  {
