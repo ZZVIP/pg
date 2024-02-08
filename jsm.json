@@ -834,6 +834,28 @@
             "changeable": 1
         },
 		{
+            "key": "兔小贝",
+            "name": "📚儿童┃启蒙",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "ext": "./json/兔小贝.js"
+        },
+		{
+            "key": "磁力熊",
+            "name": "熊┃磁力",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "./json/磁力熊[磁].js"
+        },
+		{
             "key": "Auete影视",
             "name": "Auete┃影视",
             "type": 3,
