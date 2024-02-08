@@ -471,6 +471,38 @@
             "changeable": 0
         },
 		{
+            "key": "Xinsj",
+            "name": "👓视觉┃直连",
+            "type": 3,
+			"jar": "./jar/spider1.jar",
+            "api": "csp_Xinsj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.hdmyy.com/"
+        },
+		{
+            "key": "csp_DiDuan",
+            "name": "👀低端┃外剧",
+            "type": 3,
+			"jar": "./jar/spider1.jar",
+            "api": "csp_Ddrk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+		{
+            "key": "毛驴",
+            "name": "🎀毛驴┃App",
+            "type": 3,
+			"jar": "./jar/spider1.jar",
+            "api": "csp_MLYS",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "https://www.maolvys.com/"
+        },
+		{
             "key": "亮亮",
             "name": "💡主源┃无广",
             "type": 3,
