@@ -848,6 +848,15 @@
 			"ext": "./json/开心影视.json"
 		},
 		{
+			"key": "蓝光",
+			"name": "🐳蓝光",
+			"type": 1,
+			"api": "./json/vod",
+			"playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
+			"searchable": 1,
+			"quickSearch": 1
+		},
+		{
             "key": "csp_Anime1",
             "name": "日本┃动漫",
             "type": 3,
