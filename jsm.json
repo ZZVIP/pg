@@ -817,6 +817,15 @@
 			"ext":"https://www.czzy88.com/"
 		  },
 		  {
+            "key": "厂长资源",
+            "name": "厂长┃影视",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./json/厂长资源.js"
+        },
+		  {
 			"key": "玩偶哥哥",
 			"name": "👽玩偶哥哥|饭",
 			"type": 3,
