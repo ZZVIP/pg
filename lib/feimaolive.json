@@ -1,39 +1,5 @@
 [
-{"name":"范明明IPV6","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u"},
-{
-        "name": "电视直播IPTV4-1",
-        "url": "http://yydf.540734621.xyz/vx/zb/zb2.txt"
-    },
-    {
-        "name": "电视直播IPTV4-2",
-        "url": "http://yydf.540734621.xyz/vx/zb/tvlive.txt"
-    },
-    {
-        "name": "电视直播一",
-        "url": "http://yydf.540734621.xyz/vx/zb/chunying.txt"
-    },
-    {
-        "name": "电视直播二",
-        "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"
-    },
-    {
-        "name": "电视直播三",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u"
-    },
-    {
-        "name": "8M直播",
-        "url": "http://yydf.540734621.xyz/vx/zb/8mzb.txt"
-    },
-    {
-        "name": "电视直播IPV6",
-        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
-    },
-    {
-        "name": "MTV三万九",
-        "url": "http://yydf.540734621.xyz/vx/zb/mv.txt"
-    },
-    {
-        "name": "电台之声",
-        "url": "http://yydf.540734621.xyz/vx/zb/Radio.txt"
-    }
+{"name":"范明明OfficalSite","url":"https://live.fanmingming.com/tv/m3u/global.m3u"},
+{"name":"范明明GitHub","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u"},
+{"name":"范明明IPV6","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u"}
 ]
