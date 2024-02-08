@@ -856,6 +856,29 @@
             "ext": "./json/磁力熊[磁].js"
         },
 		{
+            "key": "A8音乐",
+            "name": "🎵A8┃MV",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "./json/A8音乐.js"
+        },
+		{
+            "key": "酷奇MV",
+            "name": "🎵酷奇┃MV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "./json/酷奇MV.json",
+            "jar": "./jar/宿命影视.jar"
+        },
+		{
             "key": "Auete影视",
             "name": "Auete┃影视",
             "type": 3,
