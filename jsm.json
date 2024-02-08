@@ -607,6 +607,16 @@
 			"ext":"./json/喵物次元.js"
 		},
 		{
+			"key": "csp_XBPQ_圣人",  
+			"name": "🕍圣人之城",  
+			"type": 3, 
+			"jar":"./jar/0.txt" ,
+			"api": "csp_XBPQ",  
+			"searchable": 1,  
+			"quickSearch": 1,  
+			"filterable": 1,  
+			"ext": "./json/圣城.json"},
+		{
 			"key": "新视觉影院",
 			"name": "新视觉影院",
 			"type": 3,
@@ -1363,6 +1373,19 @@
 				"type": 2,
 				"url": "Sequence"
 			},
+			{
+				"name": "分享智能1",
+				"type": 1,
+				"url": "http://119.91.123.253:2345/Api/yun.php?url="
+			},
+			{
+				"name": "💕推荐",
+				"type": 1,
+				"url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
+			{
+				"name": "💕推荐0",
+				"type": 1,
+				"url": "https://vip.mosangkeji.com/api/?key=afcQ0C7vUiNOy4tnvG&url="},
 			{
 				"name": "稻香🌾",
 				"type": 0,
