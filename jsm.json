@@ -610,7 +610,7 @@
 			"key": "csp_XBPQ_圣人",  
 			"name": "🕍圣人之城",  
 			"type": 3, 
-			"jar":"./jar/0.txt" ,
+			"jar":"./jar/XBPQ.jar" ,
 			"api": "csp_XBPQ",  
 			"searchable": 1,  
 			"quickSearch": 1,  
