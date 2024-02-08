@@ -825,6 +825,15 @@
             "changeable": 1,
             "ext": "./json/厂长资源.js"
         },
+		{
+            "key": "Auete影视",
+            "name": "Auete┃影视",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./json/Auete.js"
+        },
 		  {
 			"key": "玩偶哥哥",
 			"name": "👽玩偶哥哥|饭",
