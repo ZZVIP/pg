@@ -450,6 +450,48 @@
             "api": "./json/lf_search3_min.js"
         },
 		{
+            "key": "sansan",
+            "name": "⭕️三三┃解析",
+            "type": 3,
+            "api": "csp_SP33",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+		{
+            "key": "赞赞",
+            "name": "➕赞赞┃切片",
+            "type": 3,
+            "jar": "./jar/赞赞.jar",
+            "api": "csp_AppYsV2",
+            "ext": "http://111.230.51.151:2323/api.php/app/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+		{
+            "key": "亮亮",
+            "name": "💡主源┃无广",
+            "type": 3,
+            "jar": "./jar/赞赞.jar",
+            "api": "csp_AppYsV2",
+            "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+		{
+            "key": "南坊",
+            "name": "☀南坊┃App",
+            "type": 3,
+			"jar": "./jar/spider.jar",
+            "api": "csp_AppMao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaI+FqHtLjQhalHqIy0+kpiTv2eOfJYxTshgoxEZvRX9BA0UIrOurFxHa4dPZw=="
+        },
+		{
 			"key":"喵物",
 			"name":"喵物｜动漫",
 			"type":3,
@@ -1102,6 +1144,90 @@
 			}
 		],
 		"parses":[
+			{
+				"name": "Json并发",
+				"type": 2,
+				"url": "Parallel"
+			},
+			{
+				"name": "Json轮询",
+				"type": 2,
+				"url": "Sequence"
+			},
+			{
+				"name": "稻香🌾",
+				"type": 0,
+				"url": "https://jx.xmflv.com/?url=",
+				"ext": {
+					"flag": [
+						"mgtv",
+						"qiyi",
+						"imgo",
+						"爱奇艺",
+						"奇艺",
+						"qq",
+						"腾讯",
+						"youku",
+						"优酷",
+						"pptv",
+						"PPTV",
+						"letv",
+						"乐视",
+						"leshi",
+						"bilibili",
+						"哔哩哔哩",
+						"哔哩",
+						"mgtv",
+						"芒果",
+						"芒果"
+					],
+					"header": {
+						"User-Agent": "okhttp/3.12.0"
+					}
+				}
+			},
+			{
+				"name": "亮亮🌾",
+				"type": 1,
+				"url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
+				"ext": {
+					"flag": [
+						"seven"
+					],
+					"header": {
+						"User-Agent": "Lavf/58.12.100"
+					}
+				}
+			},
+			{
+				"name": "YuMi-vip🥭",
+				"type": 0,
+				"url": "https://jx.xmflv.com/?url=",
+				"ext": {
+					"flag": [
+						"爱奇艺",
+						"奇艺",
+						"qq",
+						"腾讯",
+						"youku",
+						"优酷",
+						"pptv",
+						"PPTV",
+						"letv",
+						"乐视",
+						"leshi",
+						"bilibili",
+						"哔哩哔哩",
+						"哔哩",
+						"mgtv",
+						"芒果",
+						"芒果"
+					],
+					"header": {
+						"User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36"
+					}
+				}
+			},
 			{"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 			{"name":"杰森","type":0,"url":"https://jx.jsonplayer.com/player/?url="}, 
 			{"name":"战狼","type":0,"url":"https://jx.zhanlangbu.com/?url="},
@@ -1117,7 +1243,41 @@
 			{"name":"FreeOK","type":0,"url":"https://play.86516.tk/OKPlayer/?url="},
 			{"name":"free","type":0,"url":"https://h5.freejson.xyz/player/?url="}
 		],
-		"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
+		"flags":["wasu",
+		"优酷视频",
+        "youku",
+        "优酷",
+        "优 酷",
+        "优酷视频",
+        "qq",
+        "腾讯",
+        "腾 讯",
+        "腾讯视频",
+        "iqiyi",
+        "qiyi",
+        "奇艺",
+        "爱奇艺",
+        "爱 奇 艺",
+        "m1905",
+        "xigua",
+        "letv",
+        "leshi",
+        "乐视",
+        "乐 视",
+        "sohu",
+        "搜狐",
+        "搜 狐",
+        "搜狐视频",
+        "tudou",
+        "pptv",
+        "mgtv",
+        "芒果",
+        "imgo",
+        "芒果TV",
+        "芒 果 T V",
+        "bilibili",
+        "哔 哩",
+        "哔 哩 哔 哩"],
 		"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }
