@@ -453,6 +453,7 @@
             "key": "sansan",
             "name": "⭕️三三┃解析",
             "type": 3,
+			"jar": "./jar/spider.jar",
             "api": "csp_SP33",
             "searchable": 1,
             "quickSearch": 1,
