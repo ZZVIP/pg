@@ -495,7 +495,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext": "./json/新视觉影视.json"
+			"ext": "./json/新视觉影院.json"
 		},
 		{
 			"key": "meowtv_phys",
