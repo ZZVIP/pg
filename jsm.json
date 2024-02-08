@@ -826,6 +826,28 @@
             "ext": "./json/厂长资源.js"
         },
 		{
+			"key": "开心HK影视",
+			"name": "💞|HK影视",
+			"type": 3,
+			"jar": "./jar/spider1.jar",
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/开心HK影视.json"
+		},
+		{
+			"key": "开心影视",
+			"name": "💓|开心影视",
+			"type": 3,
+			"jar": "./jar/spider1.jar",
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./json/开心影视.json"
+		},
+		{
             "key": "csp_Anime1",
             "name": "日本┃动漫",
             "type": 3,
