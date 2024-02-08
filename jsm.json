@@ -829,6 +829,7 @@
             "key": "csp_Anime1",
             "name": "日本┃动漫",
             "type": 3,
+			"jar": "./jar/spider1.jar",
             "api": "csp_Anime1",
             "searchable": 1,
             "changeable": 1
