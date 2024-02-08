@@ -615,7 +615,19 @@
 			"searchable": 1,  
 			"quickSearch": 1,  
 			"filterable": 1,  
-			"ext": "./json/圣城.json"},
+			"ext": "./json/圣城.json"
+		},
+		{
+			"key": "zhuiyi",
+			"name": "💖分享追忆",
+			"type": 3,
+			"api": "csp_App",
+			"searchable": 1,
+			"filterable": 1,
+			"changeable": 1,
+			 "jar": "./jar/YSZYZ.jar",
+			"ext": "ZhuiYi#tvbox.aleoe.cc#3.0.231015"
+		},
 		{
 			"key": "新视觉影院",
 			"name": "新视觉影院",
