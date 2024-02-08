@@ -465,7 +465,7 @@
 			"ext": "https://fm.t4tv.hz.cz/json/market.json"
 		},
 		{
-			"分隔栏":""
+			"name":"分隔栏"
 		},
 		{
             "key": "lf_js_search",
