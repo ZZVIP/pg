@@ -492,6 +492,108 @@
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaI+FqHtLjQhalHqIy0+kpiTv2eOfJYxTshgoxEZvRX9BA0UIrOurFxHa4dPZw=="
         },
 		{
+            "key": "freeok",
+            "name": "🌟free┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "2",
+            "jar": "./jar/赞赞.jar",
+            "ext": {
+                "分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html",
+                "请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Referer$https://www.freeok.vip",
+                "分类": "FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿",
+                "分类值": "1&2&3&4&12&5",
+                "播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Referer$https://www.freeok.vip",
+                "副标题": "<div class=\"module-item-note\">&&</div>",
+                "嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
+                "线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
+                "线路标题": "<span>&&</small>",
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+                "简介": "<p>&&</p>"
+            }
+        },
+		{
+            "key": "csp_Nmys",
+            "name": "🧑农民┃直连",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "./json/nmys.json"
+        },
+		{
+            "key": "相声",
+            "name": "📻相声┃BPQ",
+            "type": 3,
+            "searchable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "quickSearch": 0,
+            "api": "csp_XBPQ",
+            "jar": "./jar/相声.jar",
+            "ext": {
+                "主页url": "https://www.xsmp3.com",
+                "数组二次截取": "<ul id=\"post_list_box\">&&</ul",
+                "数组": "<li class=\"www_xsmp3_com post_list_li\">&&</div>",
+                "图片": "https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/59385/6a211035-3658-45ce-a476-79f6f5dc02b71172884.png?x-oss-process=image/resize,h_1308/interlace,1",
+                "标题": "title=\"&&\"",
+                "副标题": ">&&</a",
+                "链接": "href=\"&&\"",
+                "播放二次截取": "autoplay&&;</script>",
+                "播放数组": "\\[&&\\]",
+                "播放列表": "{&&}",
+                "播放链接": "url*\"&&\"",
+                "播放标题": "name*\"&&\"",
+                "播放副标题": "artist*\"&&\"",
+                "线路数组": "相声随身听",
+                "线路标题": "相声随身听",
+                "导演": "小米",
+                "主演": "相声明星",
+                "简介": "相声合集",
+                "分类url": "https://www.xsmp3.com/{cateId}/{catePg}.html;;av",
+                "分类": "郭德纲$gdg#德云社$dys#新势力$xsxsl#青区社$qqs#马三立$msl#更多$xsmj"
+            }
+        },
+        {
+            "key": "评书",
+            "name": "📻评书┃BPQ",
+            "type": 3,
+            "searchable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "quickSearch": 0,
+            "api": "csp_XBPQ",
+            "jar": "./jar/相声.jar",
+            "ext": {
+                "主页url": "https://www.psmp3.com",
+                "数组二次截取": "<ul id=\"post_list_box\">&&</ul",
+                "数组": "<li class=\"www_psmp3_com post_list_li\">&&</div>",
+                "图片": "https://bkimg.cdn.bcebos.com/pic/86d6277f9e2f07084e3cb402ee24b899a901f2f3",
+                "标题": "title=\"&&\"",
+                "副标题": ">&&</a",
+                "链接": "href=\"&&\"",
+                "播放二次截取": "autoplay&&;</script>",
+                "播放数组": "\\[&&\\]",
+                "播放列表": "{&&}",
+                "播放链接": "url*\"&&\"",
+                "播放标题": "name*\"&&\"",
+                "播放副标题": "artist*\"&&\"",
+                "线路数组": "评书随身听",
+                "线路标题": "评书随身听",
+                "导演": "小米",
+                "主演": "评书明星",
+                "简介": "评书合集",
+                "分类url": "https://www.psmp3.com/{cateId}/{catePg}.html;;av",
+                "分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
+            }
+        },
+		{
 			"key":"喵物",
 			"name":"喵物｜动漫",
 			"type":3,
