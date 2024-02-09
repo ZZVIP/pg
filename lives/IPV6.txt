@@ -8,6 +8,15 @@ CCTV4K-HLG-36Mbps-50FPS-移动满血,http://kjsp.aikan.miguvideo.com/PLTV/888888
 CCTV4K-HLG-36Mbps-50FPS-满血臻彩视听,http://1.14.131.61:8765/av3a4k50fps.php
 
 CCTV8K-HLG-50FPS-AV3A-臻彩视听,http://1.14.131.61:8654/av3a8k50fps.php
+CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+CCTV8K,http://159.75.85.63:8765/xxtv8k.php
+CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw3737653395_1580816352/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1678665935&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+CCTV8K,http://hrare.gnway.cc/tv/ysp.php?id=cctv8k
+CCTV8K,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2020603421.m3u8
+CCTV8K,http://159.75.85.63:8654/xx8k50fps.php
+CCTV8K,http://49.235.110.121:9090/123/php/8k.php
+
 
 移动8K-1-150Mbps-50FPS-HLG-HEVC,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233652/index.m3u8
 
