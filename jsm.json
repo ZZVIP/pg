@@ -607,17 +607,6 @@
 			"ext":"./json/喵物次元.js"
 		},
 		{
-			"key": "csp_XBPQ_圣人",  
-			"name": "🕍圣人之城",  
-			"type": 3, 
-			"jar":"./jar/XBPQ.jar" ,
-			"api": "csp_XBPQ",  
-			"searchable": 1,  
-			"quickSearch": 1,  
-			"filterable": 1,  
-			"ext": "./json/圣城.json"
-		},
-		{
 			"key": "zhuiyi",
 			"name": "💖分享追忆",
 			"type": 3,
