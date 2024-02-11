@@ -22,7 +22,7 @@ var rule = {
     url:'/fyclass-fypage&vmid=$vmid',
     detailUrl:'/pgc/view/web/season?season_id=fyid',
     filter_url:'fl={{fl}}',
-    vmid获取教程:'3938343',
+    vmid:'3938343',
     searchUrl:'/x/web-interface/search/type?keyword=**&page=fypage&search_type=',
     searchable:1,
     filterable:1,
