@@ -474,6 +474,20 @@
             "ext": "https://www.hdmyy.com/"
         },
 		{
+			"key": "drpy_js_影渣渣",
+			"name": "影视 | 影渣渣[js]",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"ext": "./json/影渣渣.js"
+		},
+		{
+			"key": "drpy_js_兄弟影视",
+			"name": "影视 | 兄弟影视[js]",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"ext": "./json/兄弟影视.js"
+		},
+		{
             "key": "csp_DiDuan",
             "name": "👀低端┃外剧",
             "type": 3,
