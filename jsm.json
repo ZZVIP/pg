@@ -903,6 +903,16 @@
             "ext": "./json/兔小贝.js"
         },
 		{
+            "key": "csp_Ikanbot",
+            "name": "👾Ikanbot",
+            "type": 3,
+            "api": "csp_Ikanbot",
+			"jar":"./jar/香雅情.jar"
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+		{
             "key": "磁力熊",
             "name": "熊┃磁力",
             "type": 3,
