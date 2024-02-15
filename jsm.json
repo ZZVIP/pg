@@ -907,7 +907,7 @@
             "name": "👾Ikanbot",
             "type": 3,
             "api": "csp_Ikanbot",
-			"jar":"./jar/香雅情.jar"
+			"jar":"./jar/香雅情.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
