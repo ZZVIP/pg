@@ -89,7 +89,7 @@
 		{"key":"YunSo","name":"小云搜索|网盘","type":3,"api":"csp_YunSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},
 		{"key":"YunPanOne","name":"云盘资源|网盘","type":3,"api":"csp_YunPanOne","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},
 		{"key":"Yingtantv","name":"影探|直连","type":3,"api":"csp_Yingtantv","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/yt.json$$$1"},
-		{"key":"Yingtantv1","name": "💯影探┃TV┃App","type":3,"api":"csp_Yingtantv","searchable":1,"changeable":0,"jar":"./影探王二小放牛娃.jar"},
+		{"key":"Yingtantv1","name": "💯影探┃TV┃App","type":3,"api":"csp_Yingtantv","searchable":1,"changeable":0,"jar":"./jar/影探你大爷.jar"},
 		{
 			"key": "NanGua",
 			"name": "南瓜|弹幕",
