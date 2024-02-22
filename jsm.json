@@ -96,6 +96,17 @@
 			}
 		},
 		{"key":"Zhuiyitv1","name":"追忆|App","type":3,"api":"csp_Zhuiyitv","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"$$$./lib/yt.json$$$1"},
+{
+            "key": "Wodoudou",
+            "name": "👽PG·玩偶豆豆",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 30,
+            "ext": "./lib/tokenm.json$$$https://ali.lvdoui.top$$$null$$$1$$$./json/wogg.json"
+        },
 		{
 			"key": "Buleitv",
 			"name": "💯布蕾┃TV┃App",
