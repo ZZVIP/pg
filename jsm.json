@@ -101,7 +101,7 @@
 			"key": "Yingtantv1",
 			"name": "💯影探┃TV┃App",
 			"type": 3,
-			"api": "csp_Yingtantv2",
+			"api": "csp_Yingtantv",
 			"jar":"./jar/布蕾影探.jar",
 			"searchable": 1,
 			"changeable": 0
