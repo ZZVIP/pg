@@ -91,7 +91,7 @@
 		{"key":"Yingtantv","name":"影探|App","type":3,"api":"csp_Yingtantv","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"$$$./lib/yt.json$$$1"},
 		{"key":"LvDou_YingShiChe","name":"影视车|App","type":3,"api":"csp_LvDou","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "playerType":1, "playerType":1, "ext":{
 			"server":"https://4k.ysctv.cn/api.php/app/",
-			"mackey":"13361010807|199287
+			"mackey":"yingshiche123456|PHPBxdt7PppocRJ5
 			}
 		},
 		{"key":"Zhuiyitv1","name":"追忆|App","type":3,"api":"csp_Zhuiyitv","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"$$$./lib/yt.json$$$1"},
