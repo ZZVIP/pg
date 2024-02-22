@@ -116,6 +116,21 @@
       "quickSearch": 1,
       "filterable": 1,
     },
+{
+      "key": "Bili",
+      "name": "🅱哔哔┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+  "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707932830072/fan.txt;md5;be7060a567ce9e8021946b6de0ed8da",
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/bilibili.json"
+    },
 		{
 			"key": "Buleitv",
 			"name": "💯布蕾┃TV┃App",
