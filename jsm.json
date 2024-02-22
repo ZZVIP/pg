@@ -94,7 +94,7 @@
 			"name": "💯布蕾┃TV┃App",
 			"type": 3,
 			"api": "csp_Buleitv",
-			"jar":"./jar/布蕾影探.jar",
+			"jar":"./jar/追忆影探布蕾带自动追踪.jar",
 			"searchable": 1,
 			"changeable": 0
 		  },{
@@ -102,7 +102,16 @@
 			"name": "💯影探┃TV┃App",
 			"type": 3,
 			"api": "csp_Yingtantv",
-			"jar":"./jar/布蕾影探.jar",
+			"jar":"./jar/追忆影探布蕾带自动追踪.jar",
+			"searchable": 1,
+			"changeable": 0
+		  },
+		  {
+			"key": "Zhuiyitv",
+			"name": "💯追忆┃TV┃App",
+			"type": 3,
+			"api": "csp_Zhuiyitv",
+			"jar":"./jar/追忆影探布蕾带自动追踪.jar",
 			"searchable": 1,
 			"changeable": 0
 		  },
