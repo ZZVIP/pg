@@ -151,8 +151,8 @@
       "jar":"./jar/影视车影探.jar",
       "searchable": 1,
       "changeable": 0
-    },
-			{"key":"Yscapp","name":"影视车|App","type":3,"api":"csp_Yscapp","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "playerType":1, "playerType":1, "ext":"1"},
+    },	
+		
 		{
 			"key": "NanGua",
 			"name": "南瓜|弹幕",
