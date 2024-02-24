@@ -126,7 +126,7 @@
 						"mackey":""},
 						"jar":"http://4k.weixine.link:5678/tvbox/lvdou.jar"
 				 },
-					{"key":"美剧迷","name":"美剧迷|网盘","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./lib/token.json$$$https://www.meijumi.net/$$$socks5://192.168.4.9:7890$$$1"},
+					{"key":"美剧迷","name":"美剧迷|网盘","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./lib/token.json$$$https://www.meijumi.xyz/$$$null$$$1"},
 		{
 			"key": "NanGua",
 			"name": "南瓜|弹幕",
