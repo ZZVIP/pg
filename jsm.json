@@ -138,7 +138,8 @@
          },
 	{
       "key": "咕噜",
-      "name": "咕噜","jar" : "http://101.200.184.252/fm.jar",
+      "name": "咕噜",
+     // "jar" : "http://101.200.184.252/fm.jar",
       "type": 3,
       "api": "csp_Movie2",
       "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/Movie5.json",
