@@ -136,17 +136,6 @@
 			"filterable":1,
 			"ext":"./json/音范丝.json"
          },
-									{
-										"key":"宇宙影视",
-										"name":"4K HDR",
-										"type":3,
-										"api":"csp_AppYsV2",
-										"searchable":1,
-										"quickSearch":1,
-										"filterable":1,
-										"ext":"http://ds.yuzhoukeji.top/api.php/app/",
-										"jar":"http://101.200.184.252/drpy/pg.jar"
-									},
 		{"key":"drpy_js_哔哩影视","name":"哔哩影视","type":3,"playerType":2,"api":"http://101.200.184.252/drpy/lib/drpy2.min.js","ext":"http://101.200.184.252/drpy/js/哔哩影视.js"},
 					{
 						"key":"美剧迷",
@@ -1536,11 +1525,6 @@
 				"name": "分享智能1",
 				"type": 1,
 				"url": "http://119.91.123.253:2345/Api/yun.php?url="
-			},
-			{
-				"name":"测试",
-				"type":1,
-				"url":"http://vip.yuzhoukeji.top:88/api/index/store?id=1默认仓库redirect"
 			},
 			{
 				"name": "💕推荐",
