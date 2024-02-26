@@ -147,6 +147,7 @@
 										"ext":"http://ds.yuzhoukeji.top/api.php/app/",
 										"jar":"http://101.200.184.252/drpy/pg.jar"
 									},
+		{"key":"drpy_js_哔哩影视","name":"哔哩影视","type":3,"playerType":2,"api":"http://101.200.184.252/drpy/lib/drpy2.min.js","ext":"http://101.200.184.252/drpy/js/哔哩影视.js"},
 					{
 						"key":"美剧迷",
 						"name":"美剧迷|网盘",
