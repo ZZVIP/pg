@@ -120,8 +120,23 @@
 						"timeout":30,
 						"ext":"./lib/token.json$$$https://www.meijumi.xyz/$$$null$$$1"
 					},
-					{"key":"宇宙影视","name":"4K HDR","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jx.jsonplayer.com/player/?url=","jar":"http://101.200.184.252/drpy/pg.jar","token":"btC11NMbhWho2LsL|vZfPqkHE71Epi167"},
-		{
+					{
+      "key": "宇宙",
+      "name": "👿宇宙4K自营",
+      "type": 3,
+      "api": "csp_LvDou",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "playerType": 1,
+      "ext": {
+        "server": "http://ds1.yuzhoukeji.top/api.php/app/",
+        "mackey": "btC11NMbhWho2LsL|vZfPqkHE71Epi167",
+        "danmu": true
+      }
+    },
+					{
 			"key": "NanGua",
 			"name": "南瓜|弹幕",
 			"type": 3,
