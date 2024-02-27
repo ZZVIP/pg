@@ -120,6 +120,15 @@
 						"timeout":30,
 						"ext":"./lib/token.json$$$https://www.meijumi.xyz/$$$null$$$1"
 					},
+    {
+      "key": "Fangniu4k",
+      "name": "🇨🇳放牛┃TV┃App",
+      "type": 3,
+      "api": "csp_Fangniu4k",
+      "searchable": 1,
+      "jar":"./jar/放牛.jar,
+      "changeable": 0
+    },
 					{
       "key": "宇宙",
       "name": "👿宇宙4K自营",
