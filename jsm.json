@@ -11,6 +11,46 @@
 			"indexs":1,
 			"ext": "./lib/douban.json"
 		},
+    {
+      "key": "drpy_js_360影视",
+      "name": "官源┃360",
+      "type": 3,
+      "playerType": 2,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./json/360.js"
+    },
+    {
+      "key": "drpy_js_百忙无果",
+      "name": "官源┃芒果",
+      "type": 3,
+      "playerType": 2,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./json/mgtv.js"
+    },
+    {
+      "key": "drpy_js_奇珍异兽",
+      "name": "官源┃奇艺",
+      "type": 3,
+      "playerType": 2,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./json/iqiyi.js"
+    },
+    {
+      "key": "drpy_js_优酷",
+      "name": "官源┃优酷",
+      "type": 3,
+      "playerType": 2,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./json/youku.js"
+    },
+    {
+      "key": "drpy_js_腾云驾雾",
+      "name": "官源┃腾讯",
+      "type": 3,
+      "playerType": 2,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./json/tengxun.js"
+    },
 		{
 			"key": "网盘配置",
 			"name": "网盘及彈幕配置",
