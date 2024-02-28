@@ -175,7 +175,7 @@
 		"key":"csp_appys_影盒",
 		"name":"❤影探主接口|4K",
 		"type":3,
-		"api":"csp_AppYsV2",
+		"api":"csp_YTVIP",
 		"jar":"./jar/yt.jar",
 		"searchable":1,
 		"quickSearch":1,
