@@ -148,7 +148,7 @@
       "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/Movie5.json",
       "jar": "http://www.wya6.cn/tz/wyog.php"
 	},
-		{"key":"drpy_js_哔哩影视","name":"哔哩影视","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":{"url":"./json/哔哩影视.js"}
+		{"key":"drpy_js_哔哩影视","name":"哔哩影视","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":{"./json/哔哩影视.js"}
 },
 					{
 						"key":"美剧迷",
