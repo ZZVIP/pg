@@ -171,7 +171,18 @@
       "jar":"./jar/放牛.jar",
       "changeable": 0
     },
-					{
+	{
+		"key":"csp_appys_影盒",
+		"name":"❤影探主接口|4K",
+		"type":3,
+		"api":"csp_AppYsV2",
+		"jar":"./jar/yt.jar",
+		"searchable":1,
+		"quickSearch":1,
+		"filterable":1,
+		"ext":"http://vip-cms.lyyytv.cn/api.php/app/"
+	},
+	{
       "key": "宇宙",
       "name": "👿宇宙4K自营",
       "type": 3,
