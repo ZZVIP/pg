@@ -582,6 +582,17 @@
             "changeable": 0
         },
 		{
+			"key":"电影港",
+			"name":"🚛DYG磁┃4K",
+			"type":3,
+			"api":"csp_XYQHiker",
+			"jar":"./jar/YSC.jar",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"./json/dyg.json"
+		},
+		{
             "key": "赞赞",
             "name": "➕赞赞┃切片",
             "type": 3,
