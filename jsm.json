@@ -51,6 +51,12 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./json/tengxun.js"
     },
+    {
+       "key": "xyyy",
+       "name": "小姨音乐",
+       "type": 4,
+       "api": "https://catbox.n13.club/wy.php"
+     },
 		{
 			"key": "网盘配置",
 			"name": "网盘及彈幕配置",
