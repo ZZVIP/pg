@@ -1074,6 +1074,15 @@
             "ext": "./json/酷奇MV.json",
             "jar": "./jar/宿命影视.jar"
         },
+
+{
+"key": "MV_vod",
+"name": " 明星mv",
+"type": 3,
+"api":"caiji.js",
+"ext": "https://catbox.n13.club/wy.php"
+},
+
 		{
             "key": "Auete影视",
             "name": "Auete┃影视",
