@@ -1081,7 +1081,11 @@
 			"api": "csp_Yinyuetai",
 			"jar":"./jar/放牛.jar",
 			"searchable": 1,
-			"changeable": 0
+			"changeable": 0,
+			"style":{
+				"type":"oval",
+				"ratio":1.1
+			}
 		},
 		{
 			"key": "MV_vod",
