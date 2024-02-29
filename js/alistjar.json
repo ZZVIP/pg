@@ -11,16 +11,6 @@
       }
     },
     {
-      "name": "极空间",
-      "search": true,
-      "searchable": true,
-      "server": "http://192.168.4.144:5005",
-      "login": {
-        "username": "17606449287",
-        "password": "ZHANGzhong1992"
-      }
-    },
-    {
       "name": "小雅alist",
       "search": true,
       "searchable": true,
