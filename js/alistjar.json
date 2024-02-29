@@ -21,22 +21,6 @@
       }
     },
     {
-      "name": "九仙阁",
-      "search": true,
-      "searchable": true,
-      "server": "https://drive.9t.ee/",
-      "params": [
-                {
-                  "path": "/OneDrive",
-                  "pass": "密码dooglu"
-                },
-                {
-                  "path": "/115Cloud",
-                  "pass": "密码dooglu"
-                }
-              ]
-    },
-    {
       "name": "小雅alist",
       "search": true,
       "searchable": true,
