@@ -77,6 +77,7 @@
 		},
 		{"key":"QuarkShare","name":"夸克云盘分享","type":3,"api":"csp_QuarkShare","searchable":0,"quickSearch":0, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/quarkshare.txt"},
 		{"key":"ThunderShare","name":"迅雷云盘分享","type":3,"api":"csp_ThunderShare","searchable":0,"quickSearch":0, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/thundershare.txt"},
+		{"key":"SambaShare","name":"Samba分享","type":3,"api":"csp_SambaShare","searchable":0,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/sambashare.txt"},
 		{
 			"key": "直播转点播",
 			"name": "🐼️┃电视┃直播",
@@ -131,8 +132,8 @@
 		{"key":"Panta","name":"盘Ta|网盘","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1"},
 		{"key":"DaPanSo","name":"大盘搜|网盘","type":3,"api":"csp_DaPanSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://dapanso.com$$$null"},
 		{"key":"PikaSo","name":"皮卡搜|网盘","type":3,"api":"csp_PikaSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.pikaso.top/$$$null"},
-		{"key":"Qianfan","name":"千帆|网盘","type":3,"api":"csp_Qianfan","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./lib/qianfan.txt"},
-		{"key":"YunSo","name":"小云搜索|网盘","type":3,"api":"csp_YunSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},
+		{"key":"Qianfan","name":"千帆|网盘","type":3,"api":"csp_Qianfan","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./lib/qianfan.txt$$$1"},
+		{"key":"YunSo","name":"小云搜索|网盘","type":3,"api":"csp_YunSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.yunso.net$$$null$$$1"},
 		{"key":"YunPanOne","name":"云盘资源|网盘","type":3,"api":"csp_YunPanOne","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},
 		{"key":"Yingtantv","name":"影探|直连","type":3,"api":"csp_Yingtantv","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"$$$./lib/yt.json$$$1"},
 		
