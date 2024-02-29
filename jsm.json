@@ -55,7 +55,7 @@
        "key": "xyyy",
        "name": "小姨音乐",
        "type": 4,
-       "api": "./py/wy.php"
+       "api": "https://catbox.n13.club/wy.php"
      },
 		{
 			"key": "网盘配置",
