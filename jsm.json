@@ -1074,14 +1074,22 @@
             "ext": "./json/酷奇MV.json",
             "jar": "./jar/宿命影视.jar"
         },
-
-{
-"key": "MV_vod",
-"name": " 明星mv",
-"type": 3,
-"api":"caiji.js",
-"ext": "https://catbox.n13.club/wy.php"
-},
+		{
+			"key": "Yinyuetai",
+			"name": "🛰音悦台┃音乐┃MV",
+			"type": 3,
+			"api": "csp_Yinyuetai",
+			"jar":"./jar/放牛.jar",
+			"searchable": 1,
+			"changeable": 0
+		},
+		{
+			"key": "MV_vod",
+			"name": " 明星mv",
+			"type": 3,
+			"api":"caiji.js",
+			"ext": "https://catbox.n13.club/wy.php"
+		},
 
 		{
             "key": "Auete影视",
