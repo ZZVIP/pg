@@ -1318,6 +1318,15 @@
 				"logo": "https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
+				"name": "宇宙",
+				"type": 0,
+				"url": "./lives/宇宙.txt",
+				"playerType": 1,
+				"ua": "okhttp/3.15",
+				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
 				"name": "通用版",
 				"type": 0,
 				"url": "./lives/ysp-api.php",
