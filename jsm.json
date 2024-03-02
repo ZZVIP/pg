@@ -233,12 +233,10 @@
       "ext": "http://v.rbotv.cn"
     },
     {
-      "key": "追剧",
-      "name": "追剧┃App",
-      "type": 3,
-      "api": "csp_TTian",
-      "playerType": 2,
-      "ext": "http://app.kzjtv.com"
+     "key": "影视",
+     "name": "影视18",
+     "type": 1,
+     "api": "https://155api.com/api.php/provide/vod/"
     },
 		{
 			"key": "賤賤",
