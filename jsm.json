@@ -586,6 +586,22 @@
 			"searchable": 1,
 			"changeable": 0
 		},
+  	{
+			"key": "Iktv",
+			"name": "KTV",
+			"type": 3,
+			"api": "csp_Iktv",
+			"searchable": 1,
+			"changeable": 0
+		},
+		{
+			"key": "Yinyuetai",
+			"name": "音悦台",
+			"type": 3,
+			"api": "csp_Yinyuetai",
+			"searchable": 1,
+			"changeable": 0
+		},
 		{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"./lib/tokenm.json"},
 		{
 			"key": "應用商店",
@@ -1124,7 +1140,7 @@
             "jar": "./jar/宿命影视.jar"
         },
 		{
-			"key": "Yinyuetai",
+			"key": "YinYueTai",
 			"name": "🛰音悦台┃音乐┃MV",
 			"type": 3,
 			"api": "csp_Yinyuetai",
