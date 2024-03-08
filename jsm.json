@@ -61,7 +61,8 @@
 	 {
 		"key": "白嫖",
 		"name": "白嫖影视",
-		"type": 4,
+		"type": 3,
+		"playerType": 2,
 		"api": "./lib/drpy2.min.js",
 		"ext":"./json/bpys_open.js"
 	  },
