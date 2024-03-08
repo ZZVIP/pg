@@ -43,13 +43,6 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./json/youku.js"
     },
-	{
-		"key":"优酷",
-		"name":"优酷",
-		"type":"3",
-		"api":"csp_YouKu",
-		"ext": "./json/youku.js"
-	},
     {
       "key": "drpy_js_腾云驾雾",
       "name": "官源┃腾讯",
