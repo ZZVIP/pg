@@ -57,15 +57,13 @@
        "type": 4,
        "api": "https://catbox.n13.club/wy.php"
      },
-
 	 {
 		"key": "白嫖",
 		"name": "白嫖影视",
 		"type": 3,
-		"playerType": 2,
 		"api": "./lib/drpy2.min.js",
 		"ext":"./json/bpys_open.js"
-	  },
+	},
 		{
 			"key": "网盘配置",
 			"name": "网盘及彈幕配置",
