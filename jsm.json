@@ -47,7 +47,8 @@
 		"key":"优酷",
 		"name":"优酷",
 		"type":"3",
-		"api":"csp_YouKu"
+		"api":"csp_YouKu",
+		"ext": "./json/youku.js"
 	},
     {
       "key": "drpy_js_腾云驾雾",
