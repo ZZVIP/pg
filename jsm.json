@@ -63,7 +63,7 @@
 		"name": "白嫖影视",
 		"type": 4,
 		"api": "./lib/drpy2.min.js",
-		"ext":"./json/bpy_open.js"
+		"ext":"./json/bpys_open.js"
 	  },
 		{
 			"key": "网盘配置",
