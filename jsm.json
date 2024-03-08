@@ -644,35 +644,7 @@
             "quickSearch": 1,
             "changeable": 0
         },
-		{
-			"key":"电影港",
-			"name":"🚛DYG磁┃4K",
-			"type":3,
-			"api":"./lib/drpy2.min.js",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"./js/dygang.js"
-		},
-		{
-			"key":"电影港1",
-			"name":"🚛DYG磁",
-			"type":3,
-			"api":"./js/dygang.js",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
-		},
-		{
-			"key":"dydhhy",
-			"name":"dydhhy",
-			"type":3,
-			"api":"./lib/drpy2.min.js",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"./js/dydhhy.js"
-		},
+		
 		{
             "key": "赞赞",
             "name": "➕赞赞┃切片",
