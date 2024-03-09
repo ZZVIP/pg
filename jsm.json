@@ -540,23 +540,6 @@
 			"quickSearch": 1
 		},
 		{
-			"key": "点播源",
-			"name": "羽路影视",
-			"type": 1,
-			"api": "https://ylu.cc/api.php/provide/vod/at/xml/",
-			"playUrl": "https://ylu.cc/home/api?type=ys&url=",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": [
-			  "电影",
-			  "国产剧",
-			  "综艺",
-			  "动漫",
-			  "记录片"
-			]
-		},
-		{
 			"key": "NanGua",
 			"name": "南瓜|弹幕",
 			"type": 3,
