@@ -64,6 +64,23 @@
 			"api": "./json/bpys_open.js"
 		},
 		{
+			"key": "点播源",
+			"name": "羽路影视",
+			"type": 1,
+			"api": "https://ylu.cc/api.php/provide/vod/at/xml/",
+			"playUrl": "https://ylu.cc/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": [
+			  "电影",
+			  "国产剧",
+			  "综艺",
+			  "动漫",
+			  "记录片"
+			]
+		},
+		{
 			"key": "网盘配置",
 			"name": "网盘及彈幕配置",
 			"type": 3,
