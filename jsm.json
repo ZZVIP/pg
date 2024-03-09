@@ -702,6 +702,18 @@
             "changeable": 0,
             "ext": "https://www.maolvys.com/"
         },
+{
+            "key": "netflixgc",
+            "name": "netflixgc",
+            "type": 3,
+			"jar": "./jar/spider1.jar",
+            "api": "csp_MLYS",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "https://www.netflixgc.com"
+        },
+
 		{
             "key": "亮亮",
             "name": "💡主源┃无广",
