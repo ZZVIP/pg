@@ -64,6 +64,36 @@
 			"api": "./json/bpys_open.js"
 		},
 		{
+            "key": "ktvo",
+            "name": "k歌",
+            "type": 3,
+            "api": "./json/ktv_open.js"
+        },
+        {
+            "key": "nanguao",
+            "name": "南瓜",
+            "type": 3,
+            "api": "./json/nangua_open.js"
+        },
+        {
+            "key": "nongmino",
+            "name": "农民",
+            "type": 3,
+            "api": "./json/nm_open.js"
+        },
+        {
+            "key": "yinyuetaio",
+            "name": "音悦台",
+            "type": 3,
+            "api": "./json/yinyuetai_open.js"
+        },
+		{
+            "key": "wy",
+            "name": "网易",
+            "type": 3,
+            "api": "./json/netease_music_open.js"
+        },
+		{
 			"key": "网盘配置",
 			"name": "网盘及彈幕配置",
 			"type": 3,
