@@ -63,6 +63,23 @@
 		"type": 3,
 		"api": "./json/bpys_open.js"
 	},
+	{
+		"key": "网飞",
+		"name": "网飞",
+		"type": 3,
+		"api": "./json/wf.js"
+	},
+{
+	"key": "netflixgc",
+	"name": "netflixgc",
+	"type": 3,
+	"api": "csp_Czsapp",
+	"searchable": 1,
+	"quickSearch": 1,
+	"changeable": 0,
+	"ext": "https://www.netflixgc.com"
+},
+
 		{
 			"key": "网盘配置",
 			"name": "网盘及彈幕配置",
@@ -702,17 +719,6 @@
             "changeable": 0,
             "ext": "https://www.maolvys.com/"
         },
-{
-            "key": "netflixgc",
-            "name": "netflixgc",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "https://www.netflixgc.com"
-        },
-
 		{
             "key": "亮亮",
             "name": "💡主源┃无广",
