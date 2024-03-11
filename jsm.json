@@ -551,6 +551,7 @@
                         "name": "💯韩国┃美女┃直播",
                         "type": 3,
                         "api": "csp_Pandalivetv",
+			"jar": "./jar/放牛.jar",
                         "searchable": 0,
                         "changeable": 0
                 },
