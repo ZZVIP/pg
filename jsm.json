@@ -1062,23 +1062,6 @@
 			"ext": "https://www.duanjutv.icu"
 		},
 		{
-			"key": "532短剧",
-			"name": "💓┃短剧┃视频",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"jar": "./jar/相声.jar",
-			"ext": "分类url:https://admin.532kan.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:短剧$23,首页:短剧$16"
-		},
-		
-		{
-			"key": "短剧5",
-			"name": "短剧5",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"jar": "./jar/相声.jar",
-			"ext": "https://m.duanju5.com/"
-		 },
-		{
 			"key": "酷狗",
 			"name": "酷狗",
 			"type": 3,
