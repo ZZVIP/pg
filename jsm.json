@@ -1074,7 +1074,8 @@
 			"key": "短剧5",
 			"name": "短剧5",
 			"type": 3,
-			"api": "csp_Duanju",
+			"api": "csp_XBPQ",
+			"jar": "./jar/相声.jar",
 			"ext": "https://m.duanju5.com/"
 		 },
 		{
