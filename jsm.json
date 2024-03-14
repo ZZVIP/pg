@@ -1263,7 +1263,7 @@
 			},
 			"quickSearch": 0,
 			"api": "csp_XBPQ",
-			"jar": "./jar/相声.jar",
+			"jar": "./jar/yydf.txt",
 			"ext": {
 				"主页url": "https://www.psmp3.com",
 				"数组二次截取": "<ul id=\"post_list_box\">&&</ul",
@@ -1312,7 +1312,7 @@
 			"name": "新视觉影院",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "./jar/spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",
+			"jar": "./jar/yydf.txt",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -1327,7 +1327,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./json/胖虎影视.json",
-			"jar": "./jar/XBPQ.jar"
+			"jar": "./jar/yydf.txt"
 		},
 		{
 			"key": "drpy_js_六月听书",
@@ -1346,7 +1346,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./json/速映影视.json",
-			"jar": "./jar/XBPQ.jar"
+			"jar": "./jar/yydf.txt"
 		},
 		{
 			"key": "py_ali",
