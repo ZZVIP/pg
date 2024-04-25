@@ -187,6 +187,19 @@
 			"changeable": 0
 		},
 		{
+			"key": "Wexliyuan",
+			"name": "🎎戏曲┃看呗┃秒播┃王二小",
+			"type": 3,
+			"api": "csp_Wexliyuan",
+			"jar": "./jar/放牛.txt",
+			"searchable": 1,
+			"changeable": 0,
+			"style": {
+				"type": "rect",
+				"ratio": 2
+			}
+		},
+		{
 			"key": "玩偶",
 			"name": "👽玩偶哥哥┃4K弹幕&&&饭",
 			"type": 3,
