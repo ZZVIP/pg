@@ -4,7 +4,7 @@ import {
 from 'assets://js/lib/cat.js';
 
 let key = '996白嫖ys';
-let HOST = 'http://www.baipiaoys.cc/';
+let HOST = 'https://www.baipiaoys.com:9092/';
 let siteKey = '';
 let siteType = 0;
 
@@ -1428,7 +1428,7 @@ async function play(flag, id, flags) {
     const $ = load(html);
     const js = JSON.parse($('script:contains(player_)').html().replace('var player_aaaa=', ''));
     const playurl = js.url;
-    const result = await request("https://www.baipiao-ys.cc/player/analysis.php?v=" + playurl);
+    const result = await request("https://www.baipiao-ys.cc:6062/player/analysis.php?v=" + playurl);
     const encUrl = result.match(/"url":\s*"(.*?)"/)[1];
     console.debug(encUrl);
     const playUrl = rc4(encUrl, '202205051426239465');
