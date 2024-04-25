@@ -2455,7 +2455,7 @@
 			}
 		},
 		{
-			"name": "巧技",
+			"name": "巧技一",
 			"type": 1,
 			"url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
 			"ext": {
@@ -2488,6 +2488,16 @@
 					"YuMi-vip"
 				]
 			}
+		},
+		{
+			"name": "巧技二",
+			"type": 1,
+			"url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url="
+		},
+		{
+			"name": "亿视云解析",
+			"type": 1,
+			"url": "http://122.228.84.103:7777/api/?key=qhBtN1ciPmdvPV83tX&url="
 		},
 		{
 			"name": "分享智能1",
