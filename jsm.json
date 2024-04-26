@@ -52,6 +52,19 @@
 			"ext": "./json/tengxun.js"
 		},
 		{
+			"key": "Wexconfig",
+			"name": "🐮配置┃中心🐮",
+			"type": 3,
+			"api": "csp_Wexconfig",
+			"jar": "./jar/放牛.txt",
+			"searchable": 0,
+			"changeable": 0,
+			"style": {
+			  "type": "rect",
+			  "ratio": 1.43
+			}
+		  },
+		{
 			"key": "Wexyingchao",
 			"name": "🦜鸟巢┃王二小",
 			"type": 3,
