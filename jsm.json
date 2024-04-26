@@ -258,6 +258,15 @@
 			}
 		},
 		{
+			"key": "新6V",
+			"name": "🛩️新6V┃电影┃P2P",
+			"type": 3,
+			"api": "csp_WexXb6v",
+			"jar": "./jar/wex4-25.txt",
+			"searchable": 1,
+			"changeable": 0
+		  },
+		{
 			"key": "Wexciliso",
 			"name": "🛩️磁力┃聚合┃搜┃王二小",
 			"type": 3,
