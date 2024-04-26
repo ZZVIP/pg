@@ -101,6 +101,15 @@
 			"changeable": 1
 		},
 		{
+			"key": "Wexkukantv",
+			"name": "😁看呗┃TV┃App",
+			"type": 3,
+			"api": "csp_Wexkukantv",
+			"jar": "./jar/放牛.txt",
+			"searchable": 1,
+			"changeable": 1
+		  },
+		{
 			"key": "Wexhanjutv",
 			"name": "🇰🇷韩剧┃TV┃App┃王二小",
 			"type": 3,
