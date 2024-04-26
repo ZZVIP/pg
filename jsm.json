@@ -60,10 +60,10 @@
 			"searchable": 0,
 			"changeable": 0,
 			"style": {
-			  "type": "rect",
-			  "ratio": 1.43
+				"type": "rect",
+				"ratio": 1.43
 			}
-		  },
+		},
 		{
 			"key": "Wexyingchao",
 			"name": "🦜鸟巢┃王二小",
@@ -108,7 +108,7 @@
 			"jar": "./jar/放牛.txt",
 			"searchable": 1,
 			"changeable": 1
-		  },
+		},
 		{
 			"key": "Wexhanjutv",
 			"name": "🇰🇷韩剧┃TV┃App┃王二小",
@@ -155,10 +155,28 @@
 			"changeable": 1
 		},
 		{
+			"key": "Diduanys",
+			"name": "🙈深渊┃影视┃直连",
+			"type": 3,
+			"api": "csp_WexDiduanys",
+			"jar": "./jar/放牛.txt",
+			"searchable": 1,
+			"changeable": 1
+		  },
+		{
 			"key": "F4kvm",
 			"name": "🦑纯享┃王二小",
 			"type": 3,
 			"api": "csp_WexF4kvm",
+			"jar": "./jar/放牛.txt",
+			"searchable": 1,
+			"changeable": 1
+		},
+		{
+			"key": "Wexbttwo",
+			"name": "🐸大鼻涕┃影视┃直连",
+			"type": 3,
+			"api": "csp_Wexbttwo",
 			"jar": "./jar/放牛.txt",
 			"searchable": 1,
 			"changeable": 1
