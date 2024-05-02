@@ -713,7 +713,7 @@
 		},
 		{
 			"key": "短剧3",
-			"name": "河马剧场",
+			"name": "河马剧场1",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"jar": "./lib/XBPQ.jar",
