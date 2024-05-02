@@ -789,12 +789,12 @@
 			"name": "磁力熊[js]|索引",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
-			"ext": "./js/cilixiong.js",
+			"ext": "./js/cilixiongp.js",
 			"playerType": "3",
 			"searchable": 0,
 			"quickSearch": 0,
 			"changeable": 1,
-			"indexs": 1
+			"indexs": 0
 		},
 		{
 			"key": "Wo4k",
