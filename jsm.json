@@ -735,7 +735,7 @@
 		},
 		{
 			"key": "短剧4",
-			"name": "DramaBox",
+			"name": "DramaBox1",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"jar": "./lib/XBPQ.jar",
