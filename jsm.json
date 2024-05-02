@@ -209,15 +209,6 @@
 			"changeable": 1
 		},
 		{
-			"key": "Wexvipduanju",
-			"name": "🌸短劇┃王二小",
-			"type": 3,
-			"api": "csp_Wexvipduanju",
-			"jar": "./jar/wex-5-2-2116.txt",
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
 			"key": "Wexduanjuvop",
 			"name": "🌸短劇┃秒播┃直连┃王二小",
 			"type": 3,
