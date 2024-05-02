@@ -716,10 +716,8 @@
 			"api": "csp_XBPQ",
 			"jar": "./lib/XBPQ.jar",
 			"ext": {
-				"分类url": "https://www.duanju8.cc/show/{cateId}--{by}------{catePg}---.html;;m",
-				"分类": "恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi",
-				"分类url": "https://www.duanju8.cc/{cateId}.html;;m",
-				"分类": "最新$new#热门$hot"
+				"分类url": "https://www.duanju8.cc/{cateId}--{by}------{catePg}---.html;;m",
+				"分类": "最新$new.html#热门$hot.html#恋爱$show/lianai#反转$show/fanzhuan#悬疑$show/xuanyi#穿越$show/chuanyue#古装$show/guzhuang#都市$show/dushi"
 			}
 		},
 		{
