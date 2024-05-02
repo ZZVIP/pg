@@ -694,7 +694,7 @@
 			}
 		},
 		{
-			"key": "免费短剧",
+			"key": "短剧1",
 			"name": "短剧",
 			"type": 3,
 			"api": "csp_XBPQ",
@@ -707,6 +707,18 @@
 				"播放链接": "http+://www.duanjutv.cc+href='&&'",
 				"分类url": "http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m",
 				"分类": "抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23"
+			}
+		},
+		{
+			"key": "短剧2",
+			"name": "短剧吧",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"jar": "./lib/XBPQ.jar",
+			"ext": {
+				"分类url": "https://www.duanju8.cc/show/{cateId}--{by}------{catePg}---.html;;m",
+				
+				"分类": "恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi"
 			}
 		},
 		{
