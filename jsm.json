@@ -72,8 +72,8 @@
 			"jar": "./jar/wex-4-28-2115.txt",
 			"searchable": 1,
 			"changeable": 1
-		  },
-		  {
+		},
+		{
 			"key": "Wexwanwo",
 			"name": "🧑‍⚖️玩我┃哥哥┃阿里┃王二小",
 			"type": 3,
@@ -81,7 +81,7 @@
 			"jar": "./jar/wex-4-28-2115.txt",
 			"searchable": 1,
 			"changeable": 1
-		  },
+		},
 		{
 			"key": "Wexyingchao",
 			"name": "🦜鸟巢┃王二小",
@@ -110,6 +110,15 @@
 			"changeable": 1
 		},
 		{
+			"key": "Fangniu4k",
+			"name": "👎放牛┃TV┃App┃王二小",
+			"type": 3,
+			"api": "csp_WexFangniu4k",
+			"jar": "./jar/wex-4-28-2115.txt",
+			"searchable": 1,
+			"changeable": 1
+		},
+		{
 			"key": "Wexshandian",
 			"name": "⚡️闪电┃秒播┃直连┃王二小",
 			"type": 3,
@@ -117,7 +126,7 @@
 			"jar": "./jar/wex-4-28-2115.txt",
 			"searchable": 1,
 			"changeable": 1
-		  },
+		},
 		{
 			"key": "mingriyingshi",
 			"name": "☀️明日┃王二小",
@@ -180,7 +189,7 @@
 			"jar": "./jar/wex-4-28-2115.txt",
 			"searchable": 1,
 			"changeable": 1
-		  },
+		},
 		{
 			"key": "F4kvm",
 			"name": "🦑纯享┃王二小",
