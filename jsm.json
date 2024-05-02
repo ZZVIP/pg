@@ -732,7 +732,7 @@
 			"api": "csp_XBPQ",
 			"jar": "./lib/XBPQ.jar",
 			"ext": {
-				"分类url": "https://www.duanju001.com/show/{cateId}-{area}-{by}-time---------{year}.html;;m",
+				"分类url": "https://www.duanju001.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html;;m",
 				"分类": "短剧列表$duanju"
 			}
 		},
