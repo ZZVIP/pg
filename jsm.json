@@ -740,7 +740,7 @@
 			"api": "csp_XBPQ",
 			"jar": "./lib/XBPQ.jar",
 			"ext": {
-				"分类url": "https://www.dramaboxapp.com/zhHans/browse/{cateId}/{catePg};;m",
+				"分类url": "https://www.dramaboxapp.com/zhHans/browse/{cateId};;m",
 				"分类": "幻想言情$84#都市$70#先婚后爱$205#现实$201#历史$69#甜宠$159#现代言情$83#玄幻$64#悬疑$86#仙侠$65#古代言情$85"
 			}
 		},
