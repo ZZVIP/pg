@@ -568,7 +568,6 @@
 				"播放列表":"<p>&&</p>[包含:magnet]",
 				"分类":"4KUHD电影$4kuhd#4K电影$4kmovie#4K剧集$4ktv#杜比视界$dolbyvision#4K纪录片$4kdocu#4K演示片$4kdemo/4ktv-4ktv#杜比演示片$4kdemo/dolbydomo#DTS演示片$4kdemo/dtsdomo#8K演示片$4kdemo/8kdemo#蓝光电影$bluraymovie/bluray-movie#蓝光剧集$bluraymovie/bluraytv#3D蓝光$bluraymovie/3dmovie#蓝光纪录片$bluraymovie/documentary#蓝光演唱会$bluraymovie/audiotest",
 				"分类链接":"https://www.bugutv.org/{cateId}/page/{catePg}",
-				"搜索链接": "https://www.bugutv.org/?cat=&s={wd}",
 				"搜索数组": "class=\"entry-media\">&&</div"
 			}
 		},
@@ -862,7 +861,7 @@
 			"name": "磁力熊[js]|索引",
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
-			"ext": "./js/cilixiongp.js",
+			"ext": "./js/cilixiong.js",
 			"playerType": "3",
 			"searchable": 0,
 			"quickSearch": 0,
