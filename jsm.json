@@ -814,22 +814,6 @@
 		},
 		{
 			"key": "PikPakShare",
-			"name": "PikPak分享代理",
-			"type": 3,
-			"api": "csp_PikPakShare",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 0,
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz$$$socks5=http://192.168.4.9:7890",
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			}
-		},
-		{
-			"key": "PikPakShare1",
 			"name": "PikPak分享",
 			"type": 3,
 			"api": "csp_PikPakShare",
@@ -838,7 +822,7 @@
 			"changeable": 1,
 			"filterable": 0,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz",
+			"ext": "./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz$$$socks5=http://192.168.4.9:7890",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
