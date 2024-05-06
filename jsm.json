@@ -65,6 +65,18 @@
 			}
 		},
 		{
+			"key": "自定义",
+			"name": "🥇DIY┃播放┃全能┃王二小",
+			"type": 3,
+			"api": "csp_Wexdiy",
+			"jar": "./jar/wex-5-5-2036.txt",
+			"searchable": 1,
+			"changeable": 0,
+			"style": {
+			  "type": "list"
+			}
+		  },
+		{
 			"key": "Wexwanni",
 			"name": "🧑‍🏫玩你┃老哥┃阿里┃王二小",
 			"type": 3,
