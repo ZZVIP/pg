@@ -336,7 +336,7 @@
 		},
 		{
 			"key": "py_cntv.py",
-			"name": "央视",
+			"name": "央视1",
 			"type": 3,
 			"api": "https://api-lmteam.koyeb.app/files/py/py_cntv.py",
 			"searchable": 0,
