@@ -58,7 +58,7 @@
 			"type": 3,
 			"api": "csp_Wexconfig",
 			"jar": "./jar/wex-5-5-2036.txt",
-			"indexs":0,
+			"indexs": 0,
 			"searchable": 0,
 			"changeable": 0,
 			"style": {
@@ -327,6 +327,21 @@
 			"jar": "./jar/wex-5-5-2036.txt",
 			"searchable": 1,
 			"changeable": 0
+		},
+		{
+			"key": "t4_CNTV",
+			"name": "央视︱T4",
+			"api": "https://serv.leuse.top/vod/cntv",
+			"type": 4
+		},
+		{
+			"key": "py_cntv.py",
+			"name": "央视",
+			"type": 3,
+			"api": "https://api-lmteam.koyeb.app/files/py/py_cntv.py",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1
 		},
 		{
 			"key": "玩偶",
