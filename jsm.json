@@ -57,6 +57,7 @@
 			"type": 3,
 			"api": "csp_Wexconfig",
 			"jar": "./jar/wex-5-5-2036.txt",
+			"indexs":0,
 			"searchable": 0,
 			"changeable": 0,
 			"style": {
