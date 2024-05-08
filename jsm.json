@@ -366,6 +366,33 @@
 			"filterable": 1
 		},
 		{
+			"key": "py_bilibilivd",
+			"name": "B站视频",
+			"type": 3,
+			"style": {
+				"type": "rect",
+				"ratio": 1.43
+			},
+			"api": "./py/py_bilibilivd.py",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": {
+				"cookie": "buvid3=ECA5B1D4-F147-7CB9-561E-271D12E691BC94474infoc; b_nut=1709908794; i-wanna-go-back=-1; b_ut=7; _uuid=4A2817A1-579F-EDED-894F-D172E96510D6295255infoc; enable_web_push=DISABLE; FEED_LIVE_VERSION=V8; buvid4=A3570296-95D1-820F-C5FA-D6804610E10F96155-024030814-uuOsZ5kc%2FqTClIscIPj5sg%3D%3D; home_feed_column=5; buvid_fp=70f40fb6ea40ba6e3d8460e179aaee72; CURRENT_BLACKGAP=0; rpdid=|(k||)Jlk)~~0J'u~|mm|))R|; header_theme_version=CLOSE; browser_resolution=1865-923; bsource=search_bing; b_lsid=B94AC5E9_18F58D72494; CURRENT_FNVAL=4048; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTU0NDIyNjAsImlhdCI6MTcxNTE4MzAwMCwicGx0IjotMX0.Cs--rYQcSmiLj4HV0g3Xixl9t_T-O1Nfahr21p4eDec; bili_ticket_expires=1715442200; SESSDATA=31bf877e%2C1730735123%2C7f946%2A52CjD3QnL-xGPMW3Fob8L8jQPl1Ti0kOESxSCLvIk2KdfF2IcaagoF64TVSF-Vxh6LTAISVnNoUHdyVnJ0UUJNd1FkOUVCUDVsOHoyakZBTWRmVUYtYlFELXAzU1dKZDRnbXV0ZjdxU2JGd0tsbzVwMWhHOHNoclVzQzZFV21tS0RGMkVQZjBIRHJRIIEC; bili_jct=6e20b72c4dcacbdfa71e823c9788954f; DedeUserID=3938343; DedeUserID__ckMd5=a496ecd0ae2425bd; sid=4fvie2dx"
+			}
+		},
+		{
+			"key": "py_bilibilimd",
+			"name": "B站番剧",
+			"type": 3,
+			"api": "./py/py_bilibilimd.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {"cookie": "buvid3=ECA5B1D4-F147-7CB9-561E-271D12E691BC94474infoc; b_nut=1709908794; i-wanna-go-back=-1; b_ut=7; _uuid=4A2817A1-579F-EDED-894F-D172E96510D6295255infoc; enable_web_push=DISABLE; FEED_LIVE_VERSION=V8; buvid4=A3570296-95D1-820F-C5FA-D6804610E10F96155-024030814-uuOsZ5kc%2FqTClIscIPj5sg%3D%3D; home_feed_column=5; buvid_fp=70f40fb6ea40ba6e3d8460e179aaee72; CURRENT_BLACKGAP=0; rpdid=|(k||)Jlk)~~0J'u~|mm|))R|; header_theme_version=CLOSE; browser_resolution=1865-923; bsource=search_bing; b_lsid=B94AC5E9_18F58D72494; CURRENT_FNVAL=4048; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTU0NDIyNjAsImlhdCI6MTcxNTE4MzAwMCwicGx0IjotMX0.Cs--rYQcSmiLj4HV0g3Xixl9t_T-O1Nfahr21p4eDec; bili_ticket_expires=1715442200; SESSDATA=31bf877e%2C1730735123%2C7f946%2A52CjD3QnL-xGPMW3Fob8L8jQPl1Ti0kOESxSCLvIk2KdfF2IcaagoF64TVSF-Vxh6LTAISVnNoUHdyVnJ0UUJNd1FkOUVCUDVsOHoyakZBTWRmVUYtYlFELXAzU1dKZDRnbXV0ZjdxU2JGd0tsbzVwMWhHOHNoclVzQzZFV21tS0RGMkVQZjBIRHJRIIEC; bili_jct=6e20b72c4dcacbdfa71e823c9788954f; DedeUserID=3938343; DedeUserID__ckMd5=a496ecd0ae2425bd; sid=4fvie2dx"
+		}
+		},
+		{
 			"key": "玩偶",
 			"name": "👽玩偶哥哥┃4K弹幕&&&饭",
 			"type": 3,
@@ -2070,55 +2097,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./json/蜻蜓FM.js"
-		},
-		{
-			"key": "py_cntv",
-			"name": "央视",
-			"type": 3,
-			"api": "./py/py_cntv.py",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1
-		},
-		{
-			"key": "bilixiqu",
-			"name": "戏曲",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext": {
-				"type": "京剧#豫剧#黄梅戏#山东梆子#越剧#蒲剧#眉户#吕剧#楚剧#歌仔戏#评剧#徽剧#雁剧#上党梆子#秦腔#花鼓戏#布袋戏#沪剧#昆曲#河北梆子#梆子腔#晋剧#龙江剧#越调#河南曲剧#淮剧#滑稽戏#婺剧#绍剧#武安平调#二人台#吉剧#高腔#潮剧#超清潮剧#百花潮剧院#香港潮剧#潮剧院#潮剧团#潮剧全剧#潮剧选段#名家潮剧#潮汕小品#潮汕讲古#绍兴莲花落",
-				"cookie": ""
-			}
-		},
-		{
-			"key": "py_bilibilivd",
-			"name": "B站视频",
-			"type": 3,
-			"style": {
-				"type": "rect",
-				"ratio": 1.43
-			},
-			"api": "./py/py_bilibilivd.py",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": {
-				"cookie": "buvid3=ECA5B1D4-F147-7CB9-561E-271D12E691BC94474infoc; b_nut=1709908794; i-wanna-go-back=-1; b_ut=7; _uuid=4A2817A1-579F-EDED-894F-D172E96510D6295255infoc; enable_web_push=DISABLE; FEED_LIVE_VERSION=V8; buvid4=A3570296-95D1-820F-C5FA-D6804610E10F96155-024030814-uuOsZ5kc%2FqTClIscIPj5sg%3D%3D; home_feed_column=5; buvid_fp=70f40fb6ea40ba6e3d8460e179aaee72; CURRENT_BLACKGAP=0; rpdid=|(k||)Jlk)~~0J'u~|mm|))R|; header_theme_version=CLOSE; browser_resolution=1865-923; bsource=search_bing; b_lsid=B94AC5E9_18F58D72494; CURRENT_FNVAL=4048; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTU0NDIyNjAsImlhdCI6MTcxNTE4MzAwMCwicGx0IjotMX0.Cs--rYQcSmiLj4HV0g3Xixl9t_T-O1Nfahr21p4eDec; bili_ticket_expires=1715442200; SESSDATA=31bf877e%2C1730735123%2C7f946%2A52CjD3QnL-xGPMW3Fob8L8jQPl1Ti0kOESxSCLvIk2KdfF2IcaagoF64TVSF-Vxh6LTAISVnNoUHdyVnJ0UUJNd1FkOUVCUDVsOHoyakZBTWRmVUYtYlFELXAzU1dKZDRnbXV0ZjdxU2JGd0tsbzVwMWhHOHNoclVzQzZFV21tS0RGMkVQZjBIRHJRIIEC; bili_jct=6e20b72c4dcacbdfa71e823c9788954f; DedeUserID=3938343; DedeUserID__ckMd5=a496ecd0ae2425bd; sid=4fvie2dx"
-			}
-		},
-		{
-			"key": "py_bilibilimd",
-			"name": "B站番剧",
-			"type": 3,
-			"api": "./py/py_bilibilimd.py",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {"cookie": "buvid3=ECA5B1D4-F147-7CB9-561E-271D12E691BC94474infoc; b_nut=1709908794; i-wanna-go-back=-1; b_ut=7; _uuid=4A2817A1-579F-EDED-894F-D172E96510D6295255infoc; enable_web_push=DISABLE; FEED_LIVE_VERSION=V8; buvid4=A3570296-95D1-820F-C5FA-D6804610E10F96155-024030814-uuOsZ5kc%2FqTClIscIPj5sg%3D%3D; home_feed_column=5; buvid_fp=70f40fb6ea40ba6e3d8460e179aaee72; CURRENT_BLACKGAP=0; rpdid=|(k||)Jlk)~~0J'u~|mm|))R|; header_theme_version=CLOSE; browser_resolution=1865-923; bsource=search_bing; b_lsid=B94AC5E9_18F58D72494; CURRENT_FNVAL=4048; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTU0NDIyNjAsImlhdCI6MTcxNTE4MzAwMCwicGx0IjotMX0.Cs--rYQcSmiLj4HV0g3Xixl9t_T-O1Nfahr21p4eDec; bili_ticket_expires=1715442200; SESSDATA=31bf877e%2C1730735123%2C7f946%2A52CjD3QnL-xGPMW3Fob8L8jQPl1Ti0kOESxSCLvIk2KdfF2IcaagoF64TVSF-Vxh6LTAISVnNoUHdyVnJ0UUJNd1FkOUVCUDVsOHoyakZBTWRmVUYtYlFELXAzU1dKZDRnbXV0ZjdxU2JGd0tsbzVwMWhHOHNoclVzQzZFV21tS0RGMkVQZjBIRHJRIIEC; bili_jct=6e20b72c4dcacbdfa71e823c9788954f; DedeUserID=3938343; DedeUserID__ckMd5=a496ecd0ae2425bd; sid=4fvie2dx"
-		}
 		},
 		{
 			"key": "哔哩影视js",
