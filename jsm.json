@@ -124,6 +124,15 @@
 			"changeable": 1
 		},
 		{
+			"key": "Fangniu",
+			"name": "👎放牛",
+			"type": 3,
+			"api": "http://cms-ytmh.lyyytv.cn/api.php/app/",
+			"jar": "./jar/wex-5-7-2236.txt",
+			"searchable": 1,
+			"changeable": 1
+		},
+		{
 			"key": "Wexshandian",
 			"name": "⚡️闪电┃秒播┃直连┃王二小",
 			"type": 3,
