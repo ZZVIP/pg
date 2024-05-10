@@ -151,6 +151,15 @@
 			"changeable": 1
 		},
 		{
+			"key": "Wexhanxiaoquan",
+			"name": "🇰🇷韩圈┃TV┃App┃王二小",
+			"type": 3,
+			"api": "csp_Wexhanxiaoquan",
+			"jar": "./jar/wex-5-10-1630.txt",
+			"searchable": 1,
+			"changeable": 1
+		  },
+		{
 			"key": "Wexhanjutv",
 			"name": "🇰🇷韩剧┃TV┃App┃王二小",
 			"type": 3,
