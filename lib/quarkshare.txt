@@ -1,4 +1,12 @@
 self 我的夸克网盘
+72cc8c542572 Tacit0924-国剧
+e8ab83be3e06 Tacit0924-动漫
+e1a008ce5289 Tacit0924-电影
+96f38eeedeca Tacit0924-综艺纪录片
+a2142dc959f5 Tacit0924-韩日剧
+ceec9235c5ac Tacit0924-欧美剧
+4f1a319d69d9 Tacit0924-2024日漫合集
+
 5d35f4a6de53 高画质夸克电影合集
 8bf0934bfdaa Tacit0924-豆瓣电影Top250
 6862082b30d3 童年经典动漫大合集套装（7TB）
