@@ -158,7 +158,7 @@
 			"jar": "./jar/wex-5-10-1630.txt",
 			"searchable": 1,
 			"changeable": 1
-		  },
+		},
 		{
 			"key": "Wexhanjutv",
 			"name": "🇰🇷韩剧┃TV┃App┃王二小",
@@ -249,10 +249,10 @@
 			"searchable": 1,
 			"changeable": 0,
 			"style": {
-			  "type": "rect",
-			  "ratio": 2
+				"type": "rect",
+				"ratio": 2
 			}
-		  },
+		},
 		{
 			"key": "Wexbaobaobashi",
 			"name": "👼宝宝┃儿歌┃秒播┃王二小",
@@ -302,22 +302,22 @@
 			"changeable": 0
 		},
 		{
-		  "key": "Yinyuetai",
-		  "name": "🎸音悦台┃音乐┃MV┃王二小",
-		  "type": 3,
-		  "api": "csp_WexYinyuetai",
-		  "jar": "./jar/wex-5-10-1630.txt",
-		  "searchable": 1,
-		  "changeable": 0
+			"key": "Yinyuetai",
+			"name": "🎸音悦台┃音乐┃MV┃王二小",
+			"type": 3,
+			"api": "csp_WexYinyuetai",
+			"jar": "./jar/wex-5-10-1630.txt",
+			"searchable": 1,
+			"changeable": 0
 		},
 		{
-		  "key": "Iktv",
-		  "name": "🎤KTV┃音乐┃MV┃王二小",
-		  "type": 3,
-		  "api": "csp_WexIktv",
-		  "jar": "./jar/wex-5-10-1630.txt",
-		  "searchable": 1,
-		  "changeable": 0
+			"key": "Iktv",
+			"name": "🎤KTV┃音乐┃MV┃王二小",
+			"type": 3,
+			"api": "csp_WexIktv",
+			"jar": "./jar/wex-5-10-1630.txt",
+			"searchable": 1,
+			"changeable": 0
 		},
 		{
 			"key": "Wexxsmp3",
@@ -398,8 +398,9 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": {"cookie": "buvid3=ECA5B1D4-F147-7CB9-561E-271D12E691BC94474infoc; b_nut=1709908794; i-wanna-go-back=-1; b_ut=7; _uuid=4A2817A1-579F-EDED-894F-D172E96510D6295255infoc; enable_web_push=DISABLE; FEED_LIVE_VERSION=V8; buvid4=A3570296-95D1-820F-C5FA-D6804610E10F96155-024030814-uuOsZ5kc%2FqTClIscIPj5sg%3D%3D; home_feed_column=5; buvid_fp=70f40fb6ea40ba6e3d8460e179aaee72; CURRENT_BLACKGAP=0; rpdid=|(k||)Jlk)~~0J'u~|mm|))R|; header_theme_version=CLOSE; browser_resolution=1865-923; bsource=search_bing; b_lsid=B94AC5E9_18F58D72494; CURRENT_FNVAL=4048; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTU0NDIyNjAsImlhdCI6MTcxNTE4MzAwMCwicGx0IjotMX0.Cs--rYQcSmiLj4HV0g3Xixl9t_T-O1Nfahr21p4eDec; bili_ticket_expires=1715442200; SESSDATA=31bf877e%2C1730735123%2C7f946%2A52CjD3QnL-xGPMW3Fob8L8jQPl1Ti0kOESxSCLvIk2KdfF2IcaagoF64TVSF-Vxh6LTAISVnNoUHdyVnJ0UUJNd1FkOUVCUDVsOHoyakZBTWRmVUYtYlFELXAzU1dKZDRnbXV0ZjdxU2JGd0tsbzVwMWhHOHNoclVzQzZFV21tS0RGMkVQZjBIRHJRIIEC; bili_jct=6e20b72c4dcacbdfa71e823c9788954f; DedeUserID=3938343; DedeUserID__ckMd5=a496ecd0ae2425bd; sid=4fvie2dx"
-		}
+			"ext": {
+				"cookie": "buvid3=ECA5B1D4-F147-7CB9-561E-271D12E691BC94474infoc; b_nut=1709908794; i-wanna-go-back=-1; b_ut=7; _uuid=4A2817A1-579F-EDED-894F-D172E96510D6295255infoc; enable_web_push=DISABLE; FEED_LIVE_VERSION=V8; buvid4=A3570296-95D1-820F-C5FA-D6804610E10F96155-024030814-uuOsZ5kc%2FqTClIscIPj5sg%3D%3D; home_feed_column=5; buvid_fp=70f40fb6ea40ba6e3d8460e179aaee72; CURRENT_BLACKGAP=0; rpdid=|(k||)Jlk)~~0J'u~|mm|))R|; header_theme_version=CLOSE; browser_resolution=1865-923; bsource=search_bing; b_lsid=B94AC5E9_18F58D72494; CURRENT_FNVAL=4048; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTU0NDIyNjAsImlhdCI6MTcxNTE4MzAwMCwicGx0IjotMX0.Cs--rYQcSmiLj4HV0g3Xixl9t_T-O1Nfahr21p4eDec; bili_ticket_expires=1715442200; SESSDATA=31bf877e%2C1730735123%2C7f946%2A52CjD3QnL-xGPMW3Fob8L8jQPl1Ti0kOESxSCLvIk2KdfF2IcaagoF64TVSF-Vxh6LTAISVnNoUHdyVnJ0UUJNd1FkOUVCUDVsOHoyakZBTWRmVUYtYlFELXAzU1dKZDRnbXV0ZjdxU2JGd0tsbzVwMWhHOHNoclVzQzZFV21tS0RGMkVQZjBIRHJRIIEC; bili_jct=6e20b72c4dcacbdfa71e823c9788954f; DedeUserID=3938343; DedeUserID__ckMd5=a496ecd0ae2425bd; sid=4fvie2dx"
+			}
 		},
 		{
 			"key": "玩偶",
@@ -1025,6 +1026,17 @@
 				"type": "list",
 				"ratio": 1.1
 			}
+		},
+		{
+			"key": "Yinfans",
+			"name": "音范丝|磁力",
+			"type": 3,
+			"api": "csp_Gaoqing",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$https://www.yinfans.me/$$$proxy$$$1"
 		},
 		{
 			"key": "csp_xpath_yinfans",
