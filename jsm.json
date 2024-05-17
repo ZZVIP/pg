@@ -124,6 +124,17 @@
 			"changeable": 1
 		},
 		{
+			"key": "影探蓝光",
+			"name": "🕵️影探┃蓝光┃纯净",
+			"type": 3,
+			"api": "csp_App",
+			"jar": "./jar/moyu.php",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "z6aMzDclLwZa7eCQN0nAaMJTu+8HfYERSWRA9AuiPd5ju12RwkZY66pe1tXgTKme4myqMhNAu9a5aDusX/CFhq0GULMcLI0pBe4sO5Jk9iHT4EzGybWth1IYcQZzmT/Uknh6TZ6cHKTEuxhe9kEcbHe/matKBgar76JHg9Ss2kMqYgvU1NSsFSnVVAE7LeVECZO0XGQyrUS8VCpRjkdBsxmMhpS0QcwkxE57v9xCb+A="
+		  },
+		{
 			"key": "Wexshandian",
 			"name": "⚡️闪电┃秒播┃直连┃王二小",
 			"type": 3,
