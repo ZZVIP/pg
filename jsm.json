@@ -927,8 +927,8 @@
 			}
 		},
 		{
-			"key": "PikPakShare",
-			"name": "PikPak分享",
+			"key": "PikPakShare1",
+			"name": "PikPak分享1",
 			"type": 3,
 			"api": "csp_PikPakShare",
 			"searchable": 1,
