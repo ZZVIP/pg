@@ -453,40 +453,40 @@
 			}
 		},
 		{
-			"key": "58动漫",
-			"name": "🛹68┃动漫┃蓝光",
-			"type": 3,
-			"api": "./json/drpy2.min.js",
-			"ext": "./json/58动漫.js"
-		},
-		{
-			"key": "去看吧",
-			"name": "🫣看吧┃动漫┃蓝光",
-			"type": 3,
-			"api": "./json/drpy2.min.js",
-			"ext": "./json/去看吧.js"
-		},
-		{
-			"key": "曲奇动漫",
-			"name": "🍪曲奇┃动漫┃蓝光",
-			"type": 3,
-			"api": "./json/drpy2.min.js",
-			"ext": "./json/曲奇.js"
-		},
-		{
-			"key": "爱弹幕",
-			"name": "🛎️光幕┃动漫┃蓝光",
-			"type": 3,
-			"api": "./json/drpy2.min.js",
-			"ext": "./json/爱弹幕.js"
-		},
-		{
-			"key": "喵次元",
-			"name": "😹喵喵┃动漫┃蓝光",
-			"type": 3,
-			"api": "./json/drpy2.min.js",
-			"ext": "./json/喵次元.js"
-		},
+      "key": "58动漫",
+      "name": "🛹68┃动漫┃蓝光",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/58动漫.js"
+    },
+    {
+      "key": "去看吧",
+      "name": "🫣看吧┃动漫┃蓝光",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/去看吧.js"
+    },
+    {
+      "key": "曲奇动漫",
+      "name": "🍪曲奇┃动漫┃蓝光",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/曲奇动漫.js"
+    },
+    {
+      "key": "爱弹幕",
+      "name": "🛎️光幕┃动漫┃蓝光",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/爱弹幕.js"
+    },
+    {
+      "key": "喵次元",
+      "name": "😹喵喵┃动漫┃蓝光",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/喵次元.js"
+    },
 		{
 			"key": "玩偶",
 			"name": "👽玩偶哥哥┃4K弹幕&&&饭",
