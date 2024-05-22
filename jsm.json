@@ -57,7 +57,7 @@
 			"name": "🐮配置┃中心🐮┃王二小",
 			"type": 3,
 			"api": "csp_Wexconfig",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"indexs": 0,
 			"searchable": 0,
 			"changeable": 0,
@@ -71,7 +71,7 @@
 			"name": "🥇DIY┃播放┃全能┃王二小",
 			"type": 3,
 			"api": "csp_Wexdiy",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 0,
 			"style": {
@@ -83,7 +83,7 @@
 			"name": "🧑‍🏫玩你┃老哥┃阿里┃王二小",
 			"type": 3,
 			"api": "csp_Wexwanni",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 1
 		},
@@ -92,7 +92,7 @@
 			"name": "🦜鸟巢┃王二小",
 			"type": 3,
 			"api": "csp_Wexyingchao",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 1
 		},
@@ -101,7 +101,7 @@
 			"name": "🥷土豆┃网盘┃综合┃王二小",
 			"type": 3,
 			"api": "csp_Wextudou",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 1
 		},
@@ -110,7 +110,7 @@
 			"name": "🍎红富士┃王二小",
 			"type": 3,
 			"api": "csp_Wexxpgtv",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 1
 		},
@@ -119,7 +119,7 @@
 			"name": "👎放牛┃TV┃App┃王二小",
 			"type": 3,
 			"api": "csp_WexFangniu4k",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 1
 		},
@@ -139,7 +139,7 @@
 			"name": "⚡️闪电┃秒播┃直连┃王二小",
 			"type": 3,
 			"api": "csp_Wexshandian",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 1
 		},
@@ -148,16 +148,34 @@
 			"name": "🌟星星┃影视┃直连┃王二小",
 			"type": 3,
 			"api": "csp_Wexbaipiao",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 1
 		},
+		{
+			"key": "Wexjiajia",
+			"name": "🌜️阿亮┃TV┃App┃王二小",
+			"type": 3,
+			"api": "csp_Wexjiajia",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
+			"searchable": 1,
+			"changeable": 1
+		  },
+		  {
+			"key": "Wexdiguatv",
+			"name": "⛷️追剧┃TV┃App┃王二小",
+			"type": 3,
+			"api": "csp_Wexdiguatv",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
+			"searchable": 1,
+			"changeable": 1
+		  },
 		{
 			"key": "mingriyingshi",
 			"name": "☀️明日┃王二小",
 			"type": 3,
 			"api": "csp_WexMingriys",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 1
 		},
@@ -166,7 +184,7 @@
 			"name": "😁看呗┃TV┃App┃王二小",
 			"type": 3,
 			"api": "csp_Wexkukantv",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 1
 		},
@@ -175,7 +193,7 @@
 			"name": "🇰🇷韩圈┃TV┃App┃王二小",
 			"type": 3,
 			"api": "csp_Wexhanxiaoquan",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 1
 		},
@@ -184,7 +202,7 @@
 			"name": "🇰🇷韩剧┃TV┃App┃王二小",
 			"type": 3,
 			"api": "csp_Wexhanjutv",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 1
 		},
@@ -193,7 +211,7 @@
 			"name": "🐇拜拜┃影视┃直连┃王二小",
 			"type": 3,
 			"api": "csp_Subaibai",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 1
 		},
@@ -202,7 +220,7 @@
 			"name": "🌚进口┃影视┃直连┃王二小",
 			"type": 3,
 			"api": "csp_Wexlibhd",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 1
 		},
@@ -211,7 +229,7 @@
 			"name": "👓看看┃王二小",
 			"type": 3,
 			"api": "csp_WexShijuedy",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 1
 		},
@@ -220,7 +238,7 @@
 			"name": "🙈深渊┃影视┃直连┃王二小",
 			"type": 3,
 			"api": "csp_WexDiduanys",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 1
 		},
@@ -229,7 +247,7 @@
 			"name": "🦑纯享┃王二小",
 			"type": 3,
 			"api": "csp_WexF4kvm",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 1
 		},
@@ -238,7 +256,7 @@
 			"name": "🐸大鼻涕┃影视┃直连┃王二小",
 			"type": 3,
 			"api": "csp_Wexbttwo",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 1
 		},
@@ -247,7 +265,7 @@
 			"name": "🌸短劇┃夸克┃直连┃王二小",
 			"type": 3,
 			"api": "csp_Wexduanjuquark",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 1,
 			"style": {
@@ -259,14 +277,14 @@
 			"name": "🌸短劇┃秒播┃直连┃王二小",
 			"type": 3,
 			"api": "csp_Wexduanjuvop",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 1
 		},
 		{
 			"key": "Wexduanjuvmp",
 			"name": "🌸短劇┃极品┃直连┃王二小",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"type": 3,
 			"api": "csp_Wexduanjuvmp",
 			"searchable": 1,
@@ -277,25 +295,34 @@
 			"name": "🌸短劇┃仙品┃直连┃王二小",
 			"type": 3,
 			"api": "csp_Wexduanjuhema",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 1
 		},
 		{
-			"key": "Wexduanjuvip",
-			"name": "🌸短劇┃精品┃直连┃王二小",
+			"key": "Wexciyuancheng",
+			"name": "🤡元城┃番剧┃王二小",
 			"type": 3,
-			"api": "csp_Wexduanjuvip",
-			"jar": "./jar/wex-5-17.txt",
+			"api": "csp_Wexciyuancheng",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 1
-		},
+		  },
+		  {
+			"key": "Wexxifan",
+			"name": "🤡喜翻┃番剧┃王二小",
+			"type": 3,
+			"api": "csp_Wexxifan",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
+			"searchable": 1,
+			"changeable": 1
+		  },
 		{
 			"key": "Wexergeduoduo",
 			"name": "👼多多┃儿歌┃秒播┃王二小",
 			"type": 3,
 			"api": "csp_Wexergeduoduo",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 0,
 			"style": {
@@ -308,7 +335,7 @@
 			"name": "👼宝宝┃儿歌┃秒播┃王二小",
 			"type": 3,
 			"api": "csp_Wexbaobaobashi",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 0,
 			"style": {
@@ -321,7 +348,7 @@
 			"name": "👼贝贝┃儿歌┃秒播┃王二小",
 			"type": 3,
 			"api": "csp_Wexbeiwa",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 0,
 			"style": {
@@ -334,7 +361,7 @@
 			"name": "👼兔兔┃儿歌┃秒播┃王二小",
 			"type": 3,
 			"api": "csp_Wextuxiaobei",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 0,
 			"style": {
@@ -343,20 +370,11 @@
 			}
 		},
 		{
-			"key": "Wexduanjuso",
-			"name": "😍短剧搜┃王二小",
-			"type": 3,
-			"api": "csp_Wexduanjuso",
-			"jar": "./jar/wex-5-17.txt",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{
 			"key": "Yinyuetai",
 			"name": "🎸音悦台┃音乐┃MV┃王二小",
 			"type": 3,
 			"api": "csp_WexYinyuetai",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 0
 		},
@@ -365,7 +383,7 @@
 			"name": "🎤KTV┃音乐┃MV┃王二小",
 			"type": 3,
 			"api": "csp_WexIktv",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 0
 		},
@@ -374,7 +392,7 @@
 			"name": "🎤随身┃相声┃MP3┃王二小",
 			"type": 3,
 			"api": "csp_Wexxsmp3",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 0
 		},
@@ -383,7 +401,7 @@
 			"name": "🎤随身┃评书┃MP3┃王二小",
 			"type": 3,
 			"api": "csp_Wexpsmp3",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 0
 		},
@@ -392,7 +410,7 @@
 			"name": "🎎戏曲┃看呗┃秒播┃王二小",
 			"type": 3,
 			"api": "csp_Wexliyuan",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 0,
 			"style": {
@@ -405,7 +423,7 @@
 			"name": "🛩️磁力┃聚合┃搜┃王二小",
 			"type": 3,
 			"api": "csp_Wexciliso",
-			"jar": "./jar/wex-5-17.txt",
+			"jar": "./jar/wex-0ebb30b31b3ad5d4e9ab73b0e2f40a4b.txt",
 			"searchable": 1,
 			"changeable": 0
 		},
