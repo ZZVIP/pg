@@ -505,17 +505,6 @@
 			}
 		},
 		{
-			"key": "酷看",
-			"name": "💡酷看┃秒播&&&饭",
-			"type": 3,
-			"api": "csp_Kkys",
-			"jar": "./jar/fan.txt",
-			"timeout": 15,
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1
-		},
-		{
 			"key": "原创",
 			"name": "☀原创┃无广&&&饭",
 			"type": 3,
@@ -538,30 +527,6 @@
 			"changeable": 1
 		},
 		{
-			"key": "Xinsj",
-			"name": "👓视觉┃直连&&&饭",
-			"type": 3,
-			"api": "csp_Xinsj",
-			"jar": "./jar/fan.txt",
-			"timeout": 15,
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"ext": "https://www.80yy3.com/"
-		},
-		{
-			"key": "毛驴",
-			"name": "🍓毛驴┃直连&&&饭",
-			"type": 3,
-			"api": "csp_MLYS",
-			"jar": "./jar/fan.txt",
-			"timeout": 15,
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"ext": "https://www.maolvys.com/"
-		},
-		{
 			"key": "csp_Anime1",
 			"name": "🐾日本┃动漫&&&饭",
 			"type": 3,
@@ -570,35 +535,6 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1
-		},
-		{
-			"key": "酷奇",
-			"name": "🎤酷奇┃MV&&&饭",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./json/酷奇MV.js",
-			"style": {
-				"type": "rect",
-				"ratio": 1.597
-			},
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 0
-		},
-		{
-			"key": "MTV",
-			"name": "🎧明星┃MV&&&饭",
-			"type": 3,
-			"api": "csp_Bili",
-			"jar": "./jar/fan.txt",
-			"style": {
-				"type": "rect",
-				"ratio": 1.597
-			},
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext": "./json/MTV.json"
 		},
 		{
 			"key": "XBPQ_黑狐影院",
