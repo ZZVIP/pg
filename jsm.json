@@ -909,7 +909,7 @@
 			"changeable": 1,
 			"filterable": 0,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz$$$socks5=http://192.168.4.9:7890",
+			"ext": "./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
