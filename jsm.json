@@ -54,15 +54,13 @@
 		},
 		{
 			"key": "haiwaikan",
-			"name": "🛝海看┃秒播┃采集",
+			"name": "🛝海看┃秒播┃采集┃王二小",
 			"type": 1,
 			"api": "https://haiwaikan.com/api.php/provide/vod?",
 			"jar": "./jar/wex-65dfd0d70088b6d29c176bbbea831efc.txt",
 			"searchable": 1,
 			"changeable": 1,
-			"ext":{
-				"页面代理"："socks5://192.168.4.9:7890"
-					},
+			"ext":"socks5://192.168.4.9:7890",
 			"categories": [
 				"国产剧",
 				"韩剧",
@@ -100,7 +98,7 @@
 		},
 		{
 			"key": "360",
-			"name": "🛝360┃秒播┃采集",
+			"name": "🛝360┃秒播┃采集┃王二小",
 			"type": 1,
 			"api": "https://360zy.com/api.php/provide/vod?",
 			"jar": "./jar/wex-65dfd0d70088b6d29c176bbbea831efc.txt",
@@ -142,7 +140,7 @@
 		},
 		{
 			"key": "爱坤",
-			"name": "🛝爱坤┃秒播┃采集",
+			"name": "🛝爱坤┃秒播┃采集┃王二小",
 			"type": 1,
 			"api": "https://ikunzyapi.com/api.php/provide/vod?",
 			"jar": "./jar/wex-65dfd0d70088b6d29c176bbbea831efc.txt",
@@ -438,7 +436,7 @@
 		},
 		{
 			"key": "Wexduanjuvip",
-			"name": "🌸短劇┃精品┃直连",
+			"name": "🌸短劇┃精品┃直连┃王二小",
 			"type": 3,
 			"api": "csp_Wexduanjuvip",
 			"jar": "./jar/wex-65dfd0d70088b6d29c176bbbea831efc.txt",
@@ -566,7 +564,7 @@
 		},
 		{
 			"key": "Wexmiso",
-			"name": "🎠小米┃综合┃搜",
+			"name": "🎠小米┃综合┃搜┃王二小",
 			"type": 3,
 			"api": "csp_Wexmiso",
 			"jar": "./jar/wex-65dfd0d70088b6d29c176bbbea831efc.txt",
