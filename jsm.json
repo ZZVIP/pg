@@ -60,6 +60,7 @@
 			"jar": "./jar/wex-65dfd0d70088b6d29c176bbbea831efc.txt",
 			"searchable": 1,
 			"changeable": 1,
+			"ext":"socks5://192.168.4.9:7890",
 			"categories": [
 				"国产剧",
 				"韩剧",
