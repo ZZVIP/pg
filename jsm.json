@@ -2705,7 +2705,7 @@
 				".*ulivetv.*",
 				"mypikpak.com*",
 				"*haiwaikan.com*",
-				"*m3u.haiwaikan.com*"
+				"*m3u.haiwaikan.com/*"
 			]
 		},
 		{
