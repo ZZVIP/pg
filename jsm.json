@@ -2986,6 +2986,51 @@
 			"url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url="
 		},
 		{
+			"name": "猫宝",
+			"type": 1,
+			"url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"tucheng",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"mgtv",
+					"芒果",
+					"tnmb",
+					"seven",
+					"yzm",
+					"aliyun",
+					"RJuMao",
+					"bilibili",
+					"1905",
+					"xinvip",
+					"XAL",
+					"qiqi",
+					"XALS",
+					"YuMi-vip"
+				]
+			}
+		},
+		{
+			"name": "白嫖解析",
+			"url": "https://www.baipiao-ys.cc:6062/player/?url=",
+			"ext": {
+				"flag": [],
+				"header": {
+					"User-Agent": ""
+				}
+			}
+		},
+		{
 			"name": "亿视云解析",
 			"type": 1,
 			"url": "http://122.228.84.103:7777/api/?key=qhBtN1ciPmdvPV83tX&url="
