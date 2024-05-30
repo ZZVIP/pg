@@ -43,7 +43,7 @@
 "pikpak_thread_limit":2,
 "pikpak_vip_thread_limit":2,
 "pikpak_proxy":"socks5://192.168.4.9:7890",
-"pikpak_proxy_onlyapi":false,
+"pikpak_proxy_onlyapi":true,
 "pikpak_danmu":true,
 "wgcf_key":"MDx0SyYkQRpshraiKYdP6SjeWqVYjG83LHrjjxFrKFw=",
 "wgcf_key2":"mEO42XlrAWoK6PO4CLgpNPmOElmmEvRB5KuCEOlrxGE=",
