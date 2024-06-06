@@ -623,6 +623,23 @@
 			}
 		},
 		{
+			"key":"Youtube",
+			"name":"Youtube",
+			"type":3,
+			"api": "csp_Youtube",
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext":{
+				"type":"直播#新闻#音乐#体育#剧集#电影#8K#4K#HDR#movie#music#documentary",
+				"proxy":"socks5://192.168.4.9:7890"
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.5
+			}
+		},
+		{
 			"key": "58动漫",
 			"name": "🛹68┃动漫┃蓝光",
 			"type": 3,
@@ -1246,7 +1263,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://www.yjys.me/$$$proxy$$$1"
+			"ext": "./lib/tokenm.json$$$https://www.yjys01.com/$$$proxy$$$1"
 		},
 		{
 			"key": "新6V",
