@@ -631,8 +631,9 @@
 			"quickSearch": 0,
 			"changeable": 0,
 			"ext":{
-				"type":"直播#新闻#音乐#体育#剧集#电影#8K#4K#HDR#movie#music#documentary",
-				"proxy":"socks5://192.168.4.9:7890"
+				"type":"直播#新闻#电视剧#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#8K#4K#HDR#movie#music#documentary",
+				"proxy":"socks5://192.168.4.9:7890",
+				"codecs":""
 			},
 			"style": {
 				"type": "rect",
